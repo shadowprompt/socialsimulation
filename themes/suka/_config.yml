@@ -72,7 +72,7 @@ footer:
 # ---------------------------------------------------------------
 uiux:
   # Muilt line slogan is supported.
-  slogan: 主编：熊航 副主编：李道亮 吴文斌
+  slogan:
   # For most link color except post color
   link_color:
   primary_color:
@@ -102,14 +102,6 @@ nav:
   pages:
     首页:
       link: /
-    教程简介:
-      link: /intro/
-    学习资料:
-      link: /slides/
-    实践案例:
-      link: /cases/
-    读者反馈:
-      link: /feedback/
 
 # SNS Share Switch
 # Used to choose which items will be displayed in share menu.

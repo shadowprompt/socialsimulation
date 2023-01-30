@@ -23,7 +23,12 @@
 .p_mt16_p {
     margin-top: 16px;
 }
-
+.div_pt16_div {
+    padding-top: 16px;
+}
+.p_center {
+    text-align: center;
+}
 /*图片下面的文案*/
 ._image_caption {
     text-align: center !important;

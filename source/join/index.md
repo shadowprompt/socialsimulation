@@ -1,4 +1,4 @@
 ---
-title: Apply for membership
+title: Get Involved
 layout: application
 ---

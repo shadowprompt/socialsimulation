@@ -1517,6 +1517,13 @@ a.timeline-tile-title span:hover {
     position: relative;
     display: inline-block;
 }
+.h_nav_tree .first>li .enName {
+    line-height: 1.2;
+}
+.h_nav_tree .first>li .cnName {
+    line-height: 1.2;
+    margin-top: 4px;
+}
 .h_nav_tree .first>li.active:after {
     content: ' ';
     position: absolute;
