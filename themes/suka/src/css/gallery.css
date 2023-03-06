@@ -9,7 +9,7 @@
 	/*padding: 0 calc((100vw - 816px) * .15);*/
 	/*width: 816px;*/
 	padding: 0 !important;
-	width: 100vw !important;
+	/*width: 100vw !important;*/
 }
 .inner figure {
 	width: 100%;

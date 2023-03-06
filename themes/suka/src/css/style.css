@@ -437,6 +437,12 @@ header .divider {
     padding-left: 0;
 }
 
+.post-container.swiper-container-box {
+    padding-right: 0;
+    padding-left: 0;
+    overflow: hidden;
+}
+
 @media screen and (min-width: 481px) {
     .post-container {
         padding-right: .5rem;
