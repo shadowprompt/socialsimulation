@@ -15,6 +15,7 @@ require('../includes/helpers/page')(hexo);
 require('../includes/helpers/tags')(hexo);
 require('../includes/helpers/favicon')(hexo);
 require('../includes/helpers/qrcode')(hexo);
+require('../includes/helpers/post')(hexo);
 
 // Generator
 require('../includes/generator/search')(hexo);
