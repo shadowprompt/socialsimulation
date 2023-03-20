@@ -465,7 +465,7 @@ header .divider {
 
 @media screen and (min-width: 721px) {
     .post-container {
-        max-width: 41.4rem;
+        max-width: 56rem;
         padding-right: 1rem;
         padding-left: 1rem;
     }
@@ -473,7 +473,7 @@ header .divider {
 
 @media screen and (min-width: 1281px) {
     .post-container {
-        max-width: 48rem;
+        max-width: 72rem;
     }
 }
 
@@ -1468,7 +1468,7 @@ a.timeline-tile-title span:hover {
 
 @media screen and (min-width: 721px) {
     .h_nav-section {
-        max-width: 41.4rem;
+        max-width: 56rem;
         padding-right: 1rem;
         padding-left: 1rem;
     }
@@ -1476,7 +1476,7 @@ a.timeline-tile-title span:hover {
 
 @media screen and (min-width: 1281px) {
     .h_nav-section {
-        max-width: 48rem;
+        max-width: 74rem;
     }
 }
 .h_nav_tree_wrapper {
@@ -1674,7 +1674,7 @@ a.timeline-tile-title span:hover {
 }
 @media screen and (min-width: 721px) {
     .main-container {
-        max-width: 41.4rem;
+        max-width: 56rem;
         padding-right: 1rem;
         padding-left: 1rem;
     }
@@ -1703,9 +1703,9 @@ a.timeline-tile-title span:hover {
         display: flex;
     }
 }
-@media screen and (min-width: 1290px) {
+@media screen and (min-width: 1281px) {
     .main-container {
-        max-width: 48rem;
+        max-width: 74rem;
     }
     .h_nav_tree {
         font-size: 16px;

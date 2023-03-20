@@ -1,6 +1,11 @@
 #contact-area {
     padding: 40px 0 120px;
 }
+@media (min-width: 1200px){
+    #contact-area .container {
+        max-width: 1440px;
+    }
+}
 .contact-box {
     -webkit-box-shadow:0 0 10px rgba(0,0,0,0.1);
     box-shadow:0 0 10px rgba(0,0,0,0.1);
