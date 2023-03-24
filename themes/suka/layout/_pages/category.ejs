@@ -7,7 +7,7 @@
             <%}%>
             <!-- # Post List # -->
             <div class="post-stream-container">
-                <% if (/\d{4}/.test(page.category)) { %>
+                <% if (/^\d{4}$/.test(page.category)) { %>
                     <div class="year_wrapper">
                         <%let categoryParent='';
                             page.posts.sort('date', -1).each(function(post){
