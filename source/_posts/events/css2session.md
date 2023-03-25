@@ -3,6 +3,7 @@ date: 2019-11-22 18:15:01
 title: "首届中国社会物理学论坛暨第二届中国计算社会科学论坛在我校举行"
 categories:
 - [events, 2019]
+thumbnail_in_body: https://csuspa.csu.edu.cn/__local/5/8E/A3/7841CAB4A4E71CAF068B76A1825_4889FF0C_1B2205.jpg?e=.jpg
 ---
 <h3 class="_excerpt_ignore">首届中国社会物理学论坛暨第二届中国计算社会科学论坛在我校举行</h3>
 
