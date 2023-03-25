@@ -2,7 +2,7 @@
 date: 2018-07-07 18:15:01
 title: "首届中国计算社会科学论坛在我院顺利举办"
 categories:
-- [events]
+- [events, 2017]
 ---
 <h3 class="_excerpt_ignore">首届中国计算社会科学论坛在我院顺利举办</h3>
 
