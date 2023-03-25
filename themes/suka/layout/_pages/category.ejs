@@ -9,17 +9,20 @@
             <div class="post-stream-container">
                 <% if (/^\d{4}$/.test(page.category)) { %>
                     <div class="year_wrapper">
-                        <%let categoryParent='';
-                            page.posts.sort('date', -1).each(function(post){
-                                if(post._categoryParent) {
-                                    categoryParent = post._categoryParent;
+                        <%
+                            let pathList = page.path.split('/');
+                            let categoryIndex = pathList.indexOf(page.category)
+                            let categoryParent = pathList[categoryIndex - 1];
+                            let conf = theme['_' + categoryParent + 'YearList'];
+                            if (conf) {
+                                let yearList = conf.split(',');
+                                if (yearList) {
+                                    yearList.forEach(function (year) {%>
+                                        <a href="<%- url_for('/' + config.category_dir + '/' + categoryParent + '/' + year + '/')%>" class="category_year-a <%- year === page.category ? 'active' : ''%>"><%- year%></a>
+                                    <%})
                                 }
-                            })
+                            }
                         %>
-                        <%let yearList=['2021', '2020', '2019'];
-                        yearList.forEach(function (year) {%>
-                            <a href="<%- url_for('/' + config.category_dir + '/' + categoryParent + '/' + year + '/')%>" class="category_year-a <%- year === page.category ? 'active' : ''%>"><%- year%></a>
-                        <%})%>
                     </div>
                 <% } %>
                 <% page.posts.sort('date', -1).each(function(post){ %>
