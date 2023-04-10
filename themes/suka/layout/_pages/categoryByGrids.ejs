@@ -37,11 +37,11 @@
                 }
             }
             %>
-            <% let postsList = page.posts.filter(function (post){
+            <% let postsList = page.posts.sort('date', -1).filter(function (post){
                 return post.categories.some(function (it) {
                     return key === it.name;
                 })
-            }).sort('date', -1)%>
+            })%>
             <div><%- page.posts.length%>len:<%- postsList.length%></div>
             <%
             let _categoryByGridsMaxIndex = (theme._categoryByGridsColumns || '4') - 1
