@@ -349,7 +349,33 @@ header .divider {
     background: #dfb956;
     color: #fff;
 }
-
+.post-stream-container .post-stream_title {
+    color: #000000;
+    font-weight: bold;
+    position: relative;
+    padding-left: 20px;
+}
+.post-stream-container .post-stream_title:before {
+    content: " ";
+    position: absolute;
+    border-radius: 3px;
+    border: 3px solid #000000;
+    left: 0;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+.post-stream-container .post-stream_intro {
+    font-size: 16px;
+}
+.grid-item_column_box {
+    display: flex;
+}
+.grid-item_column_box {
+    display: flex;
+}
+.grid-item_column_box .grid-item:nth-child(2n){
+    margin-left: 20px;
+}
 .pagination .page-item i {
     vertical-align: -7.5% !important;
 }

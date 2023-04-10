@@ -1,3 +1,9 @@
-<% if (is_category()) { %>
-    <%- partial('_pages/category.ejs') %>
+<% if (is_category()) {
+    if (new RegExp(theme._categoryByYears || '').test(page.category)) { %>
+        <%- partial('_pages/categoryByYears.ejs') %>
+    <% } else if (new RegExp(theme._categoryByGrids || '').test(page.category)) { %>
+        <%- partial('_pages/categoryByGrids.ejs') %>
+    <% } else {%>
+        <%- partial('_pages/category.ejs') %>
+    <% } %>
 <% } %>
