@@ -1519,10 +1519,10 @@ hexo-server@^3.0.0:
     picocolors "^1.0.0"
     serve-static "^1.14.1"
 
-hexo-theme-butterfly@^4.5.1:
-  version "4.5.1"
-  resolved "https://registry.npmmirror.com/hexo-theme-butterfly/-/hexo-theme-butterfly-4.5.1.tgz"
-  integrity sha512-gZQ0y0q27n52tAphsF5Nj5Uvihhr8uAIyjPvK+BnysZuLgnSgbbnIr1rresRIWygvNn/PA87wzDJpKAM2NhJ3A==
+hexo-theme-butterfly@^4.8.0:
+  version "4.8.0"
+  resolved "https://registry.npmmirror.com/hexo-theme-butterfly/-/hexo-theme-butterfly-4.8.0.tgz#420387d36787334ff44d6d211e109bab8c0d82c2"
+  integrity sha512-spYbVbXcasdg+RZLSBAF1gpkVuItAM3nZzruCJJ+MFkUH6pGhCuOt+8SRa+Wk58gy5w/7YTMom2ZTeON+yzwsw==
   dependencies:
     hexo-renderer-pug "^3.0.0"
     hexo-renderer-stylus "^2.1.0"
