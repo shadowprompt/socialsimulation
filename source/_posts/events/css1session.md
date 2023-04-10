@@ -2,7 +2,7 @@
 date: 2018-07-07 18:15:01
 title: "首届中国计算社会科学论坛在我院顺利举办"
 categories:
-- [events, abc, 2017]
+- [events, 2017]
 thumbnail_in_body: https://csuspa.csu.edu.cn/__local/A/7F/4C/75B8E4C66395E98CC95C37C524D_29BA45AF_91B4.jpg?e=.jpg
 ---
 <h3 class="_excerpt_ignore">首届中国计算社会科学论坛在我院顺利举办</h3>

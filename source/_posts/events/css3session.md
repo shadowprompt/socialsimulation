@@ -2,7 +2,7 @@
 date: 2021-01-13 18:15:01
 title: "智能·文明·道路|第三届中国计算社会科学论坛成功举办"
 categories:
-- [events, def, 2022]
+- [events, 2022]
 ---
 <h3 class="_excerpt_ignore">智能·文明·道路|第三届中国计算社会科学论坛成功举办</h3>
 
