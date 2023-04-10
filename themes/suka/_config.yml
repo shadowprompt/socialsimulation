@@ -118,13 +118,20 @@ sns_share:
 qrcode:
   index_share: true
   post_share: true
-
 # 文章列表是否显示标题
 _showCategoryTitle: false
+_categoryByYears: events
+_eventList: abc@一类,def@二类
+_categoryByGridsColumns: 3
+_categoryByGrids: training
+_trainingList: hzny@华农
 # events展示年份列表
-_eventsYearList: 2022,2020,2019,2017
+_abcIntro: 欧洲社会仿真学会的年会European Social Simulation Association (ESSA)
+ 欧洲社会模拟协会（ESSA）促进了欧洲社会模拟研究、教育和应用的发展。自2010年起，已成功举办了九届。
+ http://www.essa.eu.org/
+_abcYearList: 2022,2020,2019,2017
 # training展示年份列表
-_trainingYearList: 2021,2020,2019
+_defYearList: 2021,2020,2019
 # ---------------------------------------------------------------
 # Post Settings
 # ---------------------------------------------------------------
