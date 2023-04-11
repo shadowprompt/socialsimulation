@@ -16,33 +16,47 @@
         %>
         <!-- # Post List # -->
         <div class="post-stream-container">
-            <div class="post-stream_title">
-                <%- title%>
-            </div>
             <%
-            let introConf = theme['_' + key + 'Intro'];
-            if (introConf) { %>
-                <div class="post-stream_intro">
-                    <%- introConf%>
+                let yearList = [];
+                let postsList = page.posts.sort('date', -1).filter(function (post){
+                    let categoryKey = ''
+                    let categoryYear = ''
+                    post.categories.each(function (it, index) {
+                        if (key === it.name) {
+                            categoryKey = index
+                        } else if(/^\d{4}$/.test(it.name)){
+                            categoryYear = it.name
+                        }
+                    })
+                    if (categoryKey && categoryYear && !yearList.includes(categoryYear)) {
+                        yearList.push(categoryYear)
+                    }
+                    return !!categoryKey;
+                })
+            %>
+            <% if (postsList.length > 0) {%>
+                <div class="post-stream_title">
+                    <%- title%>
                 </div>
-            <%
-            }
-            let conf = theme['_' + key + 'YearList'];
-            if (conf) {
-                let yearList = conf.split(',');
-                if (yearList) {
+                <%
+                    let introConf = theme['_' + key + 'Intro'];
+                if (introConf) { %>
+                    <div class="post-stream_intro">
+                        <%- introConf%>
+                    </div>
+                <% } %>
+            <%}%>
+
+            <% if (yearList.length > 0) { %>
+                <div class="year_wrapper">
+                    <%
                     yearList.forEach(function (year) {%>
                         <a href="<%- url_for('/' + config.category_dir + '/' + categoryParent + '/' + year + '/')%>" class="category_year-a <%- year === page.category ? 'active' : ''%>"><%- year%></a>
-                    <%})
-                }
-            }
-            %>
-            <% let postsList = page.posts.sort('date', -1).filter(function (post){
-                return post.categories.some(function (it) {
-                    return key === it.name;
-                })
-            })%>
-            <div><%- page.posts.length%>len:<%- postsList.length%></div>
+                    <% }) %>
+                    %>
+                </div>
+            <% } %>
+
             <%
             let _categoryByGridsMaxIndex = (theme._categoryByGridsColumns || '4') - 1
             postsList.each(function(post, index){
@@ -53,7 +67,7 @@
                         <div class="grid-item grid-item-column <%- index%2 === 0 ? '' : 'odd'%>">
                             <%- partial('_partial/post-entry', { post: post, index: true, pin: false }) %>
                         </div>
-                    <% if (index%2 !== 0 || index === postsList.length - 1) { %>
+                    <% if (index%2 !== 0 || index === _categoryByGridsMaxIndex) { %>
                     </div>
                     <%}
 

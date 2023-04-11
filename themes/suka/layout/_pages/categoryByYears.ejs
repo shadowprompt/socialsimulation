@@ -16,17 +16,6 @@
             %>
             <!-- # Post List # -->
             <div class="post-stream-container">
-                <div class="post-stream_title">
-                    <%- title%>
-                </div>
-                <%
-                let introConf = theme['_' + key + 'Intro'];
-                if (introConf) { %>
-                <div class="post-stream_intro">
-                    <%- introConf%>
-                </div>
-                <% } %>
-
                 <%
                 let yearList = [];
                 let postsList = page.posts.sort('date', -1).filter(function (post){
@@ -45,6 +34,18 @@
                     return !!categoryKey;
                 })
                 %>
+                <% if (postsList.length > 0) {%>
+                    <div class="post-stream_title">
+                        <%- title%>
+                    </div>
+                    <%
+                    let introConf = theme['_' + key + 'Intro'];
+                    if (introConf) { %>
+                    <div class="post-stream_intro">
+                        <%- introConf%>
+                    </div>
+                    <% } %>
+                <%}%>
 
                 <% if (yearList.length > 0) { %>
                     <div class="year_wrapper">
@@ -55,7 +56,7 @@
                         %>
                     </div>
                 <% } %>
-                <div><%- page.posts.length%>len:<%- postsList.length%></div>
+
                 <%postsList.each(function(post){%>
                     <div class="grid-item">
                         <%- partial('_partial/post-entry', { post: post, index: true, pin: false }) %>
