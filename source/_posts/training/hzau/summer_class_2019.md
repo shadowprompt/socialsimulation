@@ -7,10 +7,13 @@ thumbnail_in_body: /img/hzau/summer_class_2019.jpg
 ---
 ## <div class="post_flex_center_center">2019年“计算社会科学方法论” 暑期学校</div>
 
-<div class="post_flex_center_center">
-<img class="post_block-item" style="height: 60px" src="http://mari.hzau.edu.cn/__local/2/2A/DF/B712A843D52A7E16C1FFBB56FD6_17B8B4A7_17DA2.png" />
-<img class="post_block-item" style="height: 60px" src="http://mari.hzau.edu.cn/__local/6/35/55/0EDBCC4998BFBDD265BE8600CFF_C1D591B0_AD5A.png"/>
+<br/>
+<div class="p_center">
+<img class="post_block-item" style="width: 300px" src="http://mari.hzau.edu.cn/__local/2/2A/DF/B712A843D52A7E16C1FFBB56FD6_17B8B4A7_17DA2.png" />
+<img class="post_block-item" style="width: 300px" src="http://mari.hzau.edu.cn/__local/6/35/55/0EDBCC4998BFBDD265BE8600CFF_C1D591B0_AD5A.png"/>
 </div>
+<br/>
+
 大数据的兴起和计算机技术的发展，为经济学、管理学、社会学、政治学、教育学、新闻传播学、心理学等社会科学研究异质性个体之间的互动、微观行为与宏观动态之间的反馈等复杂问题，提供了新的分析范式和强大的工具。由此产生的新兴学科领域——计算社会科学（Computational Social Science，CSS）——方兴未艾且发展迅速，计算社会科学是计算机技术与大数据分析在社会科学中应用而形成的一个交叉研究领域，而计算性研究方法（计算机仿真、复杂网络分析等）的掌握往往成为研究者进入该领域一道难以逾越的门槛。
 
 华中农业大学宏观农业研究院与帝国理工大学城市系统实验室（Urban Systems Lab, Imperial College London）联合举办“计算社会科学方法论”暑期学校，帮助研究者掌握计算机仿真等计算社会科学研究工具，以降低进入该领域的门槛。本期暑期学校邀请了五位具有运用计算机仿真模型研究社会科学问题丰富经验的主讲人授课，提供零起点且系统完整的仿真建模理论、方法和应用培训。

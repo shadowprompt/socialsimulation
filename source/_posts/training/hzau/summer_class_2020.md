@@ -7,10 +7,12 @@ thumbnail_in_body: /img/hzau/summer_class_2020.png
 ---
 ## <div class="post_flex_center_center">2020年“计算社会科学方法论” 暑期学校</div>
 
-<div class="post_flex_center_center">
-<img class="post_block-item" style="height: 60px" src="http://mari.hzau.edu.cn/__local/2/2A/DF/B712A843D52A7E16C1FFBB56FD6_17B8B4A7_17DA2.png" />
-<img class="post_block-item" style="height: 60px" src="http://mari.hzau.edu.cn/__local/6/35/55/0EDBCC4998BFBDD265BE8600CFF_C1D591B0_AD5A.png"/>
+<br/>
+<div class="p_center">
+<img class="post_block-item" style="width: 300px" src="http://mari.hzau.edu.cn/__local/2/2A/DF/B712A843D52A7E16C1FFBB56FD6_17B8B4A7_17DA2.png" />
+<img class="post_block-item" style="width: 300px" src="http://mari.hzau.edu.cn/__local/6/35/55/0EDBCC4998BFBDD265BE8600CFF_C1D591B0_AD5A.png"/>
 </div>
+<br/>
 
 计算社会科学是计算机技术与大数据分析在社会科学中应用而形成的一个新型领域，是大数据和智能时代中社会科学研究发展的一个重要方向。在对新冠肺炎疫情的研究和治理中，计算机仿真、复杂网络分析等计算社会科学方法发挥了突出作用，而对这些方法的深入掌握往往成为研究者进入该领域一道难以逾越的门槛。
 <!-- more -->

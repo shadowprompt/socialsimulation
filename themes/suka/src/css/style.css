@@ -338,7 +338,8 @@ header .divider {
     width: 100%;
 }
 .post-stream-container .year_wrapper {
-    margin-top: 0.6rem;
+    margin-top: 0.3rem;
+    margin-bottom: -0.4rem;
 }
 .post-stream-container .year_wrapper .category_year-a {
     display: inline-block;
@@ -374,10 +375,14 @@ header .divider {
 }
 .grid-item_column_box {
     display: flex;
+    margin: 0.8rem 0;
 }
 .grid-item_column_box .grid-item-column {
     flex: 1;
     overflow: hidden;
+}
+.grid-item_column_box .grid-item-column .post-entry.card {
+    margin: 0;
 }
 .grid-item_column_box .grid-item:nth-child(2n){
     margin-left: 20px;
@@ -432,7 +437,7 @@ header .divider {
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
-    -webkit-line-clamp: 5;
+    -webkit-line-clamp: 6;
     -webkit-box-orient: vertical;
 }
 .card-body-content  a {
