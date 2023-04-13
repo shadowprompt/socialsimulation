@@ -337,7 +337,10 @@ header .divider {
 .post-stream-container {
     width: 100%;
 }
-.post-stream-container .category_year-a {
+.post-stream-container .year_wrapper {
+    margin-top: 0.6rem;
+}
+.post-stream-container .year_wrapper .category_year-a {
     display: inline-block;
     padding: 0 15px;
     margin-bottom: 5px;
@@ -354,6 +357,7 @@ header .divider {
     font-weight: bold;
     position: relative;
     padding-left: 20px;
+    font-size: 18px;
 }
 .post-stream-container .post-stream_title:before {
     content: " ";
@@ -365,16 +369,24 @@ header .divider {
     transform: translate(0, -50%);
 }
 .post-stream-container .post-stream_intro {
-    font-size: 16px;
+    font-size: 14px;
+    color: #9195A3;
 }
 .grid-item_column_box {
     display: flex;
 }
-.grid-item_column_box {
-    display: flex;
+.grid-item_column_box .grid-item-column {
+    flex: 1;
+    overflow: hidden;
 }
 .grid-item_column_box .grid-item:nth-child(2n){
     margin-left: 20px;
+}
+.grid-item_column_box .post-entry .post-thumbnail {
+    height: 70px;
+}
+.grid-item_column_box .post-entry .card-body-content {
+    -webkit-line-clamp: 3;
 }
 .pagination .page-item i {
     vertical-align: -7.5% !important;
@@ -394,29 +406,44 @@ header .divider {
 .post-entry.card {
     box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12);
     margin: .8rem 0;
-    border-radius: 6px;
+    border-radius: 4px;
     position: relative;
     min-width: 0;
     word-wrap: break-word;
     background-clip: border-box;
 }
 
+.post-entry.card .card-header {
+    padding: 0.4rem 0.8rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
 .post-entry .post-thumbnail {
-    width: 100%;
-    height: 100%;
-    min-height: 4rem;
+    /*width: 100%;*/
+    height: 136px;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     overflow: hidden;
 }
-
+.card-body-content {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+}
+.card-body-content  a {
+    color: initial !important;
+}
 @media (min-width: 961px) {
     .post-entry .column-body {
         order: -1;
     }
     .post-entry .post-thumbnail {
-        min-height: 3rem;
+        /*min-height: 3rem;*/
     }
 }
 

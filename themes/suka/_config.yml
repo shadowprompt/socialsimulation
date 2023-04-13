@@ -120,25 +120,31 @@ qrcode:
   post_share: true
 # 文章列表是否显示标题
 _showCategoryTitle: false
-_categoryByYears: events
-_eventList: abc@一类,def@二类
-_categoryByGridsColumns: 3
+
+_categorySpecial: events|training
+_eventsList: essa@Social Simulation Conference社会仿真大会,iccs@International Conference on Computational Social Science计算社会科学国际会议,csssa@美洲计算社会科学学会年会,csu@中南大学吕鹏办的两次计算社会科学论坛,tsinghua@清华大学孟天广办的全国计算社会科学高端论坛、计算社会科学国际会议
+
+_essaIntro: 欧洲社会仿真学会的年会European Social Simulation Association (essa)
+  欧洲社会模拟协会（essa）促进了欧洲社会模拟研究、教育和应用的发展。自2010年起，已成功举办了九届。
+  http://www.essa.eu.org/
+
+_iccsIntro: IC²S² 自2015年以来连续每年举办至今，是首屈一指的年度会议，汇集了来自不同学科和对使用计算和数据密集型方法来解决社会相关问题感兴趣的研究人员。
+
+_csssaIntro: 美洲计算社会科学学会（CSSSA）自2011年以来连续每年举办至今，是一个专业学会，旨在通过举办会议和研讨会，促进研究、教学和发表研究结果和成果方面的科学标准，推动计算社会科学领域的所有领域，包括基础和应用方向。
+
+_categoryByGridsColumns: 4
 _categoryByGrids: training
-_trainingList: hzny@华农
-# events展示年份列表
-_abcIntro: 欧洲社会仿真学会的年会European Social Simulation Association (ESSA)
- 欧洲社会模拟协会（ESSA）促进了欧洲社会模拟研究、教育和应用的发展。自2010年起，已成功举办了九届。
- http://www.essa.eu.org/
-_abcYearList: 2022,2020,2019,2017
-# training展示年份列表
-_defYearList: 2021,2020,2019
+_categoryByGridsList: hzau
+_trainingList: hzau@华中农大-帝国理工暑期学校,sphsu@欧洲社会仿真学会暑期学校,behave@BEHAVE暑期学校,iamo@IAMO暑期学校
+
+_grid_training_hzau: 4
 # ---------------------------------------------------------------
 # Post Settings
 # ---------------------------------------------------------------
 post:
   # Default Excerpt
   # Please use <!-- more --> in the post to control excerpt accurately and will override the configuration here.
-  entry_excerpt: 120
+  entry_excerpt: 1000
   # Notify on expire of the page
   # To let the visitor know if the post hasn't been update for long.
   expire: true

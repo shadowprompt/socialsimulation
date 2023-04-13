@@ -12,6 +12,17 @@
     justify-content: center;
     text-align: center;
 }
+
+.post_flex_center_center + .post_flex_center_center {
+    margin-top: 8px;
+}
+/* 元素直接有间距 */
+.post_block-item {
+    flex: 1;
+}
+.post_block-item +.post_block-item {
+    margin-left: 30px;
+}
 .post_flex_center {
     display: flex;
     align-items: center;

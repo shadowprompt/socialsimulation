@@ -7,24 +7,43 @@
             <%}%>
             <!-- # Post List # -->
             <div class="post-stream-container">
-                <% if (/^\d{4}$/.test(page.category)) { %>
+                <%
+                let pathList = page.path.split('/');
+                let categoryIndex = pathList.indexOf(page.category)
+                let categoryParent = pathList[categoryIndex - 1];
+                let yearList = [];
+                let postsList = site.posts.sort('date', -1).filter(function (post){
+                    let flag = false;
+                    post.categories.each(function (it, index) {
+                        if (it.name ===categoryParent) {
+                            flag = true
+                        }
+                    })
+                    return flag
+                }).each(function (post) {
+                    let categoryYear = ''
+                    post.categories.each(function (it, index) {
+                        if(/^\d{4}$/.test(it.name)){
+                            categoryYear = it.name
+                        }
+                    })
+                    if (categoryYear && !yearList.includes(categoryYear)) {
+                        yearList.push(categoryYear)
+                    }
+                    return !!true;
+                })
+                %>
+
+                <% if (yearList.length > 0) { %>
                     <div class="year_wrapper">
                         <%
-                            let pathList = page.path.split('/');
-                            let categoryIndex = pathList.indexOf(page.category)
-                            let categoryParent = pathList[categoryIndex - 1];
-                            let conf = theme['_' + categoryParent + 'YearList'];
-                            if (conf) {
-                                let yearList = conf.split(',');
-                                if (yearList) {
-                                    yearList.forEach(function (year) {%>
-                                        <a href="<%- url_for('/' + config.category_dir + '/' + categoryParent + '/' + year + '/')%>" class="category_year-a <%- year === page.category ? 'active' : ''%>"><%- year%></a>
-                                    <%})
-                                }
-                            }
+                        yearList.forEach(function (year) {%>
+                            <a href="/<%- pathList.slice(0, categoryIndex).join('/') + '/' + year + '/'%>" class="category_year-a <%- year === page.category ? 'active' : ''%>"><%- year%></a>
+                        <% }) %>
                         %>
                     </div>
                 <% } %>
+
                 <% page.posts.sort('date', -1).each(function(post){ %>
                     <div class="grid-item">
                         <%- partial('_partial/post-entry', { post: post, index: true, pin: false }) %>

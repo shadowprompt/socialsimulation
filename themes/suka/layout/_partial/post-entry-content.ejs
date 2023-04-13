@@ -9,13 +9,14 @@
                 <div class="post-thumbnail lazyload" data-bg="url(<%= post.thumbnail_in_body %>)"></div>
             </a>
         </div>
-        <div class="col-8">
-            <% if (post.excerpt) {%>
-                <%- strip_html(post.excerpt) %>
-            <% } else { %>
-                <%- strip_html(truncate(post.content, { length: theme.post.entry_excerpt })) %>
-            <% } %>
-            <a href="<%= url_for(post.path) %>"><%= __('post.continue') %></a>
+        <div class="col-8 card-body-content">
+            <a href="<%= url_for(post.path) %>" title="<%= __('post.continue') %>">
+                <% if (post.excerpt) {%>
+                    <%- strip_html(post.excerpt) %>
+                <% } else { %>
+                    <%- truncate(strip_html(post.content), { length: theme.post.entry_excerpt }) %>
+                <% } %>
+            </a>
         </div>
     </div>
 <% } else {%>
@@ -23,7 +24,7 @@
         <% if (post.excerpt) {%>
             <%- strip_html(post.excerpt) %>
         <% } else { %>
-            <%- strip_html(truncate(post.content, { length: theme.post.entry_excerpt })) %>
+            <%- truncate(strip_html(post.content), { length: theme.post.entry_excerpt }) %>
         <% } %>
         <a href="<%= url_for(post.path) %>"><%= __('post.continue') %></a>
     </p>

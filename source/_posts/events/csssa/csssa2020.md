@@ -1,6 +1,6 @@
 ---
 date: 2020-04-10 17:15:01
-title: "International Conference on Computational Social Science 2023"
+title: "International Conference on Computational Social Science 2020"
 categories:
 - [events, csssa, 2020]
 thumbnail_in_body: /img/csssa/csssa2020.png
@@ -24,7 +24,7 @@ You are invited to participate in the **Computational Social Science (CSS 2020) 
 
 ### <div class="post_flex_center_center">Keynote Speakers</div>
 <div class="post_flex_center_center">
-    <img class="post_block-item" src="https://computationalsocialscience.org/wp-content/uploads/2020/01/simon-dedeo-600x600.jpg"/>
+    <img style="width: 180px" src="https://computationalsocialscience.org/wp-content/uploads/2020/01/simon-dedeo-600x600.jpg"/>
 </div>
 
 **<div class="post_flex_center_center">Simon DeDeo</div>**

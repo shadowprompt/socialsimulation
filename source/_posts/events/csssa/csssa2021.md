@@ -10,7 +10,7 @@ CSS 2021 Santa Fe
 
 ### **<div class="post_flex_center_center">The Computational Social Science Society of the Americas</div>**
 
-# **<div class="post_flex_center_center">CSS 2023</div>**
+# **<div class="post_flex_center_center">CSS 2021</div>**
 # **<div class="post_flex_center_center">Annual Conference</div>**
 # **<div class="post_flex_center_center">Virtual</div>**
 #### **<div class="post_flex_center_center">Nov 4 – 7, 2021</div>**
