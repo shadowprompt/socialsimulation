@@ -3,7 +3,7 @@ date: 2023-04-10 18:15:01
 title: "Behave Summer School 2023"
 categories:
 - [training, behave, 2023]
-thumbnail_in_body: https://ssc23-sphsu.online/wp-content/uploads/2023/03/Media_813345_smxx-500x86-1.png
+thumbnail_in_body: /img/behave/behave_2023.png
 ---
 
 <h3 class="_excerpt_ignore">Behave Summer School 2023</h3>

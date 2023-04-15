@@ -3,7 +3,7 @@ date: 2019-04-10 18:15:01
 title: "Behave Summer School 2019"
 categories:
 - [training, behave, 2019]
-thumbnail_in_body: https://behavelab.org/wp-content/uploads/2019/12/behave-summer-school-2019.jpg
+thumbnail_in_body: /img/behave/behave_2019.jpg
 ---
 
 <h3 class="_excerpt_ignore">Behave Summer School 2019</h3>

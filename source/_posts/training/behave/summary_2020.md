@@ -3,7 +3,7 @@ date: 2020-04-10 18:15:01
 title: "Behave Summer School 2020"
 categories:
 - [training, behave, 2020]
-thumbnail_in_body: https://ssc23-sphsu.online/wp-content/uploads/2023/03/Media_813345_smxx-500x86-1.png
+thumbnail_in_body: /img/behave/behave_2020.jpg
 ---
 
 <h3 class="_excerpt_ignore">Behave Summer School 2020</h3>

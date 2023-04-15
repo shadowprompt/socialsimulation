@@ -3,7 +3,7 @@ date: 2023-04-10 18:15:01
 title: "Social Simulation Conference 2023 in Glasgow"
 categories:
 - [training, sphsu, 2023]
-thumbnail_in_body: https://ssc23-sphsu.online/wp-content/uploads/2023/03/Media_813345_smxx-500x86-1.png
+thumbnail_in_body: /img/sphsu/sphsu_2023.jpg
 ---
 
 <h3 class="_excerpt_ignore">18th Social Simulation Conference</h3>
