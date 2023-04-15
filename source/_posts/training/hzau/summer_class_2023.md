@@ -158,17 +158,21 @@ Andreas Flache，荷兰格罗宁根大学社会学系教授。主要应用基于
 
 #### 报名与咨询
 
-1、请有意者在2023年6月16日前进入网https://www.wjx.cn/vm/e9bGQAR.aspx#页或扫描右方的二维位码进行报名。
-undefined
+<div class="post_flex_center">
+    <div class="post_flex_1">1、请有意者在2023年6月16日前进入网 <a href="https://www.wjx.cn/vm/e9bGQAR.aspx#">https://www.wjx.cn/vm/e9bGQAR.aspx#</a>页或扫描右方的二维位码进行报名。</div>
+    <div class="post_flex_1 post_flex_center_horizontal">
+        <img src="http://mari.hzau.edu.cn/__local/6/2A/6D/63529C07D6BD4CA16E994C4F361_23DE78E9_1AB5.jpg" width="150px">
+    </div>
+</div>
 
 **我们郑重承诺：报名者提供的信息、材料仅用于本期暑期学校使用，对个人信息严格保密！**
 
-![](http://mari.hzau.edu.cn/__local/6/2A/6D/63529C07D6BD4CA16E994C4F361_23DE78E9_1AB5.jpg)
-
-
-2、可扫描右方二维码加入“2023CSS交流群”微信群咨询和交流。
-![](http://mari.hzau.edu.cn/__local/9/66/D3/6A485D4A084A1E3A212F05CBA97_ED4522E5_B2A2.jpg)
-
+<div class="post_flex_center">
+    <div class="post_flex_1">2、可扫描右方二维码加入“2023CSS交流群”微信群咨询和交流。</div>
+    <div class="post_flex_1 post_flex_center_horizontal">
+        <img src="http://mari.hzau.edu.cn/__local/9/66/D3/6A485D4A084A1E3A212F05CBA97_ED4522E5_B2A2.jpg" width="130px">
+    </div>
+</div>
 
 #### 录取反馈
 
