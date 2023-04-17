@@ -124,13 +124,26 @@ _showCategoryTitle: false
 _categorySpecial: events|training
 _eventsList: essa@Social Simulation Conference社会仿真大会,iccs@International Conference on Computational Social Science计算社会科学国际会议,csssa@美洲计算社会科学学会年会,csu@中南大学吕鹏办的两次计算社会科学论坛,tsinghua@清华大学孟天广办的全国计算社会科学高端论坛、计算社会科学国际会议
 
-_essaIntro: 欧洲社会仿真学会的年会European Social Simulation Association (essa)
-  欧洲社会模拟协会（essa）促进了欧洲社会模拟研究、教育和应用的发展。自2010年起，已成功举办了九届。
-  http://www.essa.eu.org/
+_essaIntro: <div>
+  <div>欧洲社会仿真学会的年会European Social Simulation Association (essa)</div>
+  <div>欧洲社会模拟协会（essa）促进了欧洲社会模拟研究、教育和应用的发展。自2010年起，已成功举办了九届。</div>
+  <div><a href="http://www.essa.eu.org/" target="_blank">http://www.essa.eu.org/</a></div>
+  </div>
 
-_iccsIntro: IC²S² 自2015年以来连续每年举办至今，是首屈一指的年度会议，汇集了来自不同学科和对使用计算和数据密集型方法来解决社会相关问题感兴趣的研究人员。
+_iccsIntro: <div>
+  <div>IC²S² 自2015年以来连续每年举办至今，是首屈一指的年度会议，汇集了来自不同学科和对使用计算和数据密集型方法来解决社会相关问题感兴趣的研究人员。</div>
+  <div><a href="https://iscss.org/" target="_blank">https://iscss.org/</a></div>
+  </div>
 
-_csssaIntro: 美洲计算社会科学学会（CSSSA）自2011年以来连续每年举办至今，是一个专业学会，旨在通过举办会议和研讨会，促进研究、教学和发表研究结果和成果方面的科学标准，推动计算社会科学领域的所有领域，包括基础和应用方向。
+_csssaIntro: <div>
+  <div>美洲计算社会科学学会（CSSSA）自2011年以来连续每年举办至今，是一个专业学会，旨在通过举办会议和研讨会，促进研究、教学和发表研究结果和成果方面的科学标准，推动计算社会科学领域的所有领域，包括基础和应用方向。</div>
+  <div><a href="https://computationalsocialscience.org/" target="_blank">https://computationalsocialscience.org/</a></div>
+  </div>
+
+_behaveIntro: <div>
+  <div>BEHAVE暑期学校自2018年以来成功举办四届，由Behave实验室、米兰大学和布雷西亚大学联合举办，旨在通过理论和实践讲座、NetLogo上的日常实践课程、项目展示和专家的个人辅导对学生进行基于代理的建模培训。</div>
+  <div><a href="https://abmschool.behavelab.org/#" target="_blank">https://abmschool.behavelab.org/#</a></div>
+  </div>
 
 _categoryByGridsColumns: 4
 _categoryByGrids: training
