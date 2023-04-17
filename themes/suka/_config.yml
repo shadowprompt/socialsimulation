@@ -122,7 +122,7 @@ qrcode:
 _showCategoryTitle: false
 
 _categorySpecial: events|training
-_eventsList: essa@Social Simulation Conference社会仿真大会,iccs@International Conference on Computational Social Science计算社会科学国际会议,csssa@美洲计算社会科学学会年会,csu@中南大学吕鹏办的两次计算社会科学论坛,tsinghua@清华大学孟天广办的全国计算社会科学高端论坛、计算社会科学国际会议
+_eventsList: isss@ISSS,essa@Social Simulation Conference社会仿真大会,iccs@International Conference on Computational Social Science计算社会科学国际会议,csssa@美洲计算社会科学学会年会,csu@中南大学吕鹏办的两次计算社会科学论坛,tsinghua@清华大学孟天广办的全国计算社会科学高端论坛、计算社会科学国际会议
 
 _essaIntro: <div>
   <div>欧洲社会仿真学会的年会European Social Simulation Association (essa)</div>
@@ -153,6 +153,11 @@ _trainingList: hzau@华中农大-帝国理工暑期学校,sphsu@欧洲社会仿�
 _grid_training_hzau: 4
 # 因banner造成的偏移数量
 _grid_banner_training_hzau: 1
+
+# index from 0
+_grid_events_isss: 4
+# 因banner造成的偏移数量
+_grid_banner_events_isss: 1
 # ---------------------------------------------------------------
 # Post Settings
 # ---------------------------------------------------------------

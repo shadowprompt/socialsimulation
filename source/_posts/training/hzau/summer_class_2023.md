@@ -4,6 +4,7 @@ title: "2023年计算社会科学方法论” 暑期学校"
 categories:
 - [training, hzau, 2023]
 thumbnail_in_body: /img/hzau/summer_class_2023.jpg
+banner: /img/hzau/summer_class_2023.jpg
 ---
 
 ## <div class="post_flex_center_center">2023年“计算社会科学方法论” 暑期学校 </div>
