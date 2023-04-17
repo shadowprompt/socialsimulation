@@ -149,8 +149,10 @@ _categoryByGridsColumns: 4
 _categoryByGrids: training
 _categoryByGridsList: hzau
 _trainingList: hzau@华中农大-帝国理工暑期学校,sphsu@欧洲社会仿真学会暑期学校,behave@BEHAVE暑期学校,iamo@IAMO暑期学校
-
+# index from 0
 _grid_training_hzau: 4
+# 因banner造成的偏移数量
+_grid_banner_training_hzau: 1
 # ---------------------------------------------------------------
 # Post Settings
 # ---------------------------------------------------------------
