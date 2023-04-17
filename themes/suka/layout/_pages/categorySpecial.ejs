@@ -33,6 +33,21 @@
                         }
                         return !!categoryKey;
                     })
+                    let keyHasPostMap = {};
+                    let _superCategoryConf = theme['_superCategory'];
+
+                    postsList = postsList.filter(function (post){
+                        if(new RegExp(_superCategoryConf).test(categoryParent)) {
+                          return true;
+                        }
+
+                        if (keyHasPostMap[categoryParent]) {
+                          return false
+                        } else {
+                          keyHasPostMap[categoryParent] = true;
+                          return true;
+                        }
+                    })
                 %>
                 <% if (postsList.length > 0) {%>
                     <div class="post-stream_title">
@@ -58,10 +73,10 @@
                 <% } %>
 
                 <%
-                let gridConf = theme['_grid_' + page.category + '_' + key];
+                let gridConf = theme['_grid_' + page.category + '/' + key];
                 if (gridConf) {
                     let _categoryByGridsMaxIndex = gridConf - 0;
-                    let gridBannerConf = theme['_grid_banner_' + page.category + '_' + key] || 0;
+                    let gridBannerConf = theme['_grid_banner_' + page.category + '/' + key] || 0;
                         postsList.each(function(post, index){
                         if (index <= _categoryByGridsMaxIndex) {
                             let compareIndex = index - gridBannerConf;
