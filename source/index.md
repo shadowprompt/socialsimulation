@@ -9,21 +9,28 @@ layout: homepage
         <div class="swiper-wrapper">
             <div class="swiper-slide init">
                 <div class="inner">
-                    <a href="/blogs/events/">
+                    <a href="/training/CSS/CSS2023/">
+                        <figure><img src="/img/css/summer_school_2023.jpg"></figure>
+                    </a>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="inner">
+                    <a href="/events/">
                         <figure><img src="/img/banner1.jpeg"></figure>
                     </a>
                 </div>
             </div>
-            <div class="swiper-slide init">
+            <div class="swiper-slide">
                 <div class="inner">
-                    <a href="/blogs/events/">
+                    <a href="/events/">
                         <figure><img src="/img/banner2.jpeg"></figure>
                     </a>
                 </div>
             </div>
-            <div class="swiper-slide init">
+            <div class="swiper-slide">
                 <div class="inner">
-                    <a href="/blogs/events/">
+                    <a href="/events/">
                         <figure><img src="/img/banner3.jpeg"></figure>
                     </a>
                 </div>
