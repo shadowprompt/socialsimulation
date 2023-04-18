@@ -88,11 +88,11 @@
                             <%} else {
                                 if(compareIndex%2 === 0) { %>
                                 <div class="grid-item_column_box">
-                                    <%}%>
+                                <%}%>
                                     <div class="grid-item grid-item-column <%- compareIndex%2 === 0 ? '' : 'odd'%>">
                                         <%- partial('_partial/post-entry', { post: post, index: true, pin: false }) %>
                                     </div>
-                                    <% if (compareIndex%2 !== 0 || index === _categoryByGridsMaxIndex) { %>
+                                <% if (compareIndex%2 !== 0 || index === _categoryByGridsMaxIndex) { %>
                                 </div>
                                 <%}
                             }
