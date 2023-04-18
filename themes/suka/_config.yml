@@ -122,33 +122,33 @@ qrcode:
 _showCategoryTitle: false
 
 _categorySpecial: events|training
-_eventsList: ISSS@ISSS,ESSA@Social Simulation Conference社会仿真大会,ICCS@International Conference on Computational Social Science计算社会科学国际会议,CSSSA@美洲计算社会科学学会年会,CSU@中南大学吕鹏办的两次计算社会科学论坛,tsinghua@清华大学孟天广办的全国计算社会科学高端论坛、计算社会科学国际会议
+_eventsList: ISSS@International Symposium on Social Simulation 社会仿真国际研讨会,ESSA@Social Simulation Conference社会仿真大会,ICCS@International Conference on Computational Social Science计算社会科学国际会议,CSSSA@Computational Social Science Society of the Americas 美洲计算社会科学学会年会,CSU@中国计算社会科学论坛,tsinghua@全国计算社会科学高端论坛
 
-_essaIntro: <div>
+_ESSA_intro: <div>
   <div>欧洲社会仿真学会的年会European Social Simulation Association (ESSA)</div>
-  <div>欧洲社会模拟协会（ESSA）促进了欧洲社会模拟研究、教育和应用的发展。自2010年起，已成功举办了九届。</div>
+  <div>欧洲社会仿真学会（ESSA）促进了欧洲社会模拟研究、教育和应用的发展。自2010年起，已成功举办了九届。</div>
   <div><a href="http://www.ESSA.eu.org/" target="_blank">http://www.ESSA.eu.org/</a></div>
   </div>
 
-_iccsIntro: <div>
+_ICCS_intro: <div>
   <div>IC²S² 自2015年以来连续每年举办至今，是首屈一指的年度会议，汇集了来自不同学科和对使用计算和数据密集型方法来解决社会相关问题感兴趣的研究人员。</div>
   <div><a href="https://iscss.org/" target="_blank">https://iscss.org/</a></div>
   </div>
 
-_csssaIntro: <div>
+_CSSSA_intro: <div>
   <div>美洲计算社会科学学会（CSSSA）自2011年以来连续每年举办至今，是一个专业学会，旨在通过举办会议和研讨会，促进研究、教学和发表研究结果和成果方面的科学标准，推动计算社会科学领域的所有领域，包括基础和应用方向。</div>
   <div><a href="https://computationalsocialscience.org/" target="_blank">https://computationalsocialscience.org/</a></div>
   </div>
 
-_behaveIntro: <div>
-  <div>BEHAVE暑期学校自2018年以来成功举办四届，由Behave实验室、米兰大学和布雷西亚大学联合举办，旨在通过理论和实践讲座、NetLogo上的日常实践课程、项目展示和专家的个人辅导对学生进行基于代理的建模培训。</div>
+_BEHAVE_intro: <div>
+  <div>BEHAVE暑期学校自2018年以来成功举办四届，由BEHAVE实验室、米兰大学和布雷西亚大学联合举办，旨在通过理论和实践讲座、NetLogo上的日常实践课程、项目展示和专家的个人辅导对学生进行基于代理的建模培训。</div>
   <div><a href="https://abmschool.behavelab.org/#" target="_blank">https://abmschool.behavelab.org/#</a></div>
   </div>
 
 _categoryByGridsColumns: 4
 _categoryByGrids: training
 _categoryByGridsList: CSS
-_trainingList: CSS@华中农大-帝国理工暑期学校,SPHSU@欧洲社会仿真学会暑期学校,BEHAVE@BEHAVE暑期学校,IAMO@IAMO暑期学校
+_trainingList: CSS@华中农大-帝国理工“计算社会科学方法论”暑期学校,SPHSU@European Social Simulation Conference 欧洲社会仿真学会,BEHAVE@BEHAVE Summer School BEHAVE暑期学校,IAMO@IAMO Forum IAMO论坛
 # index from 0
 _grid_training/CSS: 4
 # 因banner造成的偏移数量
