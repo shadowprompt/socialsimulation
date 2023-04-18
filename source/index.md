@@ -23,15 +23,8 @@ layout: homepage
             </div>
             <div class="swiper-slide">
                 <div class="inner">
-                    <a href="/events/">
-                        <figure><img src="/img/banner2.jpeg"></figure>
-                    </a>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="inner">
-                    <a href="/events/">
-                        <figure><img src="/img/banner3.jpeg"></figure>
+                    <a href="/training/">
+                        <figure><img src="/img/css/summer_school_2019_1480x880.jpg"></figure>
                     </a>
                 </div>
             </div>
