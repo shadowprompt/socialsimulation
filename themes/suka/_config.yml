@@ -122,12 +122,12 @@ qrcode:
 _showCategoryTitle: false
 
 _categorySpecial: events|training
-_eventsList: isss@ISSS,essa@Social Simulation Conference社会仿真大会,iccs@International Conference on Computational Social Science计算社会科学国际会议,csssa@美洲计算社会科学学会年会,csu@中南大学吕鹏办的两次计算社会科学论坛,tsinghua@清华大学孟天广办的全国计算社会科学高端论坛、计算社会科学国际会议
+_eventsList: ISSS@ISSS,ESSA@Social Simulation Conference社会仿真大会,ICCS@International Conference on Computational Social Science计算社会科学国际会议,CSSSA@美洲计算社会科学学会年会,CSU@中南大学吕鹏办的两次计算社会科学论坛,tsinghua@清华大学孟天广办的全国计算社会科学高端论坛、计算社会科学国际会议
 
 _essaIntro: <div>
-  <div>欧洲社会仿真学会的年会European Social Simulation Association (essa)</div>
-  <div>欧洲社会模拟协会（essa）促进了欧洲社会模拟研究、教育和应用的发展。自2010年起，已成功举办了九届。</div>
-  <div><a href="http://www.essa.eu.org/" target="_blank">http://www.essa.eu.org/</a></div>
+  <div>欧洲社会仿真学会的年会European Social Simulation Association (ESSA)</div>
+  <div>欧洲社会模拟协会（ESSA）促进了欧洲社会模拟研究、教育和应用的发展。自2010年起，已成功举办了九届。</div>
+  <div><a href="http://www.ESSA.eu.org/" target="_blank">http://www.ESSA.eu.org/</a></div>
   </div>
 
 _iccsIntro: <div>
@@ -147,19 +147,19 @@ _behaveIntro: <div>
 
 _categoryByGridsColumns: 4
 _categoryByGrids: training
-_categoryByGridsList: hzau
-_trainingList: hzau@华中农大-帝国理工暑期学校,sphsu@欧洲社会仿真学会暑期学校,behave@BEHAVE暑期学校,iamo@IAMO暑期学校
+_categoryByGridsList: CSS
+_trainingList: CSS@华中农大-帝国理工暑期学校,SPHSU@欧洲社会仿真学会暑期学校,BEHAVE@BEHAVE暑期学校,IAMO@IAMO暑期学校
 # index from 0
-_grid_training/hzau: 4
+_grid_training/CSS: 4
 # 因banner造成的偏移数量
-_grid_banner_training/hzau: 1
+_grid_banner_training/CSS: 1
 
 # index from 0
-_grid_events/isss: 4
+_grid_events/ISSS: 4
 # 因banner造成的偏移数量
-_grid_banner_events/isss: 1
+_grid_banner_events/ISSS: 1
 
-_superCategory: events/isss|training/hzau
+_superCategory: events/ISSS|training/CSS
 # ---------------------------------------------------------------
 # Post Settings
 # ---------------------------------------------------------------
