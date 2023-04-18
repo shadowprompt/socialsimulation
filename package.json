@@ -26,7 +26,8 @@
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-butterfly": "^4.5.1",
-    "hexo-theme-landscape": "^0.0.3"
+    "hexo-theme-landscape": "^0.0.3",
+    "qr-image": "^3.2.0"
   },
   "yuqueConfig": {
     "postPath": "source/yuque",
@@ -42,6 +43,7 @@
     "onlyPublic": false
   },
   "devDependencies": {
+    "node-prismjs": "^0.1.2",
     "yuque-hexo": "^1.9.5"
   }
 }
