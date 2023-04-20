@@ -3,18 +3,18 @@ date: 2022-04-10 15:15:01
 title: "第四届全国计算社会科学高端论坛成功召开"
 categories:
 - [events, tsinghua, 2022]
-thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/cee28d93-616c-4e15-9abf-3173dfb3a245.png
+thumbnail_in_body: /img/tsinghua/2022/cee28d93-616c-4e15-9abf-3173dfb3a245.png
 ---
 ## <div class="post_flex_center_center">第四届全国计算社会科学高端论坛成功召开</div>
 
 2022年12月10日，第四届全国计算社会科学高端论坛成功召开。本次高端论坛以“促进社会科学与计算科学的融合发展：新方法、新议程”为主题，由中国计算社会科学联盟主办，浙江大学公共管理学院、浙江大学社会治理研究院、浙江工商大学社会科学研究院和浙江大学计算社会科学中心联合承办。60余位来自浙江大学、清华大学、北京大学等国内高校的社会科学和计算科学研究学者，以及浙江省大数据局实务专家参与了论坛讨论。本次论坛共吸引了1000余名观众线上观看直播内容。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/cee28d93-616c-4e15-9abf-3173dfb3a245.png"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/cee28d93-616c-4e15-9abf-3173dfb3a245.png"/>
 </div>
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/1decaf83-7e33-4438-9c8e-da92e6de3179.jpg"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/1decaf83-7e33-4438-9c8e-da92e6de3179.jpg"/>
 </div>
 <div class="post_flex_center_center">
     （会议图）
@@ -23,7 +23,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 会议开幕式由浙江大学公共管理学院党委书记杨国富主持。在开幕式上，中国计算社会科学联盟理事长、北京大学政府管理学院李强教授；浙江工商大学党委书记、校长郁建兴教授；中国计算社会科学联盟副理事长、清华大学社会科学学院党委书记刘涛雄教授出席开幕式并先后致辞。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/b0b6a62e-e914-4f2b-a0ee-7cf5de6316b0.png"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/b0b6a62e-e914-4f2b-a0ee-7cf5de6316b0.png"/>
 </div>
 <div class="post_flex_center_center">
     （杨国富书记主持开幕式）
@@ -34,7 +34,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 **开幕式上，李强教授代表中国计算社会科学联盟致辞，感谢浙江大学和浙江工商大学等承办单位对计算社会科学的关注，肯定相关单位为举办会议做出的努力。** 他指出，计算社会科学的兴起，既是数字时代社会科学创新发展的必然趋势，更是社会科学与数据科学、计算科学交叉融合的产物。我国应加快计算社会科学交叉学科建设，通过构建全国共享的数字科研基础设施，建设文理交叉的重点实验室，加快培养复合型数字人才和系统育人机制，形成计算社会科学的学术、话语和学科体系。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/6aef1b47-28ff-4d11-b5b9-ba59d014e212.png"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/6aef1b47-28ff-4d11-b5b9-ba59d014e212.png"/>
 </div>
 <div class="post_flex_center_center">
     （李强教授致辞）
@@ -43,7 +43,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 郁建兴教授代表浙江大学、浙江工商大学对本次论坛的召开表示热烈的祝贺。他指出，计算社会科学高端论坛举行到第四届表明对计算社会科学的认知、实践、探索已经进入到新的阶段。我国可以通过计算科学和社会科学的融合来更好地研究中国问题，乘势而上，一方面摆脱中国哲学社会科学的依附性、实现自主性，一方面实现社会科学的范式革命，这两方面都具有重大的全球意义。郁教授强调，本次论坛的承办方在计算社会科学的学科建设方面都具有强烈的自觉，浙江大学较早地建立了计算社会科学研究中心，浙江工商大学同样强调数字技术的发展，通过发展人工智能学科、建设中外合作人工智能学院、启动“数字+学科”行动计划等方式实现“超常规”的发展，并与中国人民大学实现战略合作。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/45bf0054-62c0-4a21-bf3b-3d33cc5dfb45.png"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/45bf0054-62c0-4a21-bf3b-3d33cc5dfb45.png"/>
 </div>
 <div class="post_flex_center_center">
     （郁建兴教授致辞）
@@ -61,7 +61,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 北京师范大学的韩战钢教授以《Carbon pricing mechanism analysis by ABM model systems mapping》探讨了新能源转型中ABM的应用与思考。韩教授认为在快速转型的时代，电力行业的结构性变化以及所涉及的行为者和受影响的利益相关者的高度分化和异质性需要新的研究视角，即智能体模拟与系统框图相结合。随后，考虑到碳定价机制的异质性、不确定性、相互作用与反馈，韩教授介绍了系统框图（systems mapping）以直观和定性的方式探索反馈，智能体模拟（Agent-based modeling）来定量探索异质性和动态性。将强化学习、拍卖算法与ABM进行结合，搭建最小成本优化模型。通过模拟各种不同能源的生产情况与碳排放的结果，从而计算能源生产过程中的碳税。最后，韩教授认为系统框图与ABM结合的新思维为分析能量转换提供了新视角，需要跨学科合作。系统框图分析表明，除了“强化效应”外，碳排放权交易体系(ETS)政策中可能存在“平衡效应”。碳税可能会为结构性变化提供更多激励，但也存在一定的不确定性。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/bd57a52d-540c-4563-a90b-ae6ed934c77f.png"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/bd57a52d-540c-4563-a90b-ae6ed934c77f.png"/>
 </div>
 <div class="post_flex_center_center">
     （刘涛雄教授致辞）
@@ -74,7 +74,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 第四届全国计算社会科学高端论坛主旨演讲，由清华大学计算社会科学与国家治理实验室副主任、中国计算社会科学联盟秘书长孟天广主持。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/c7fd1394-c6fb-4a79-84d7-ec3317f39df0.png"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/c7fd1394-c6fb-4a79-84d7-ec3317f39df0.png"/>
 </div>
 <div class="post_flex_center_center">
     （孟天广副主任主持）
@@ -83,7 +83,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 郁建兴、张小劲、王腾蛟、陈云松、吴飞、罗家德、周葆华、柯荣住、魏贵义等9位嘉宾进行主旨演讲。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/c7fd1394-c6fb-4a79-84d7-ec3317f39df0.png"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/c7fd1394-c6fb-4a79-84d7-ec3317f39df0.png"/>
 </div>
 <div class="post_flex_center_center">
     （主旨演讲合照图）
@@ -117,7 +117,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/ea6e652d-2518-417b-ab8c-1f9db7a10a68.png"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/ea6e652d-2518-417b-ab8c-1f9db7a10a68.png"/>
 </div>
 <div class="post_flex_center_center">
     （平行分论坛1合照）
@@ -138,7 +138,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 **平行分论坛2围绕“数字治理”的主题展开**，孙轩、顾天安、范晓光、郑跃平与吴英发等五位汇报人进行论文汇报，由浙江大学公共管理学院黄萃老师主持，清华大学公共管理学院张楠老师作为评论人进行点评。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/b6f6aae7-c157-4cbc-9f66-53d6c5919b44.jpg"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/b6f6aae7-c157-4cbc-9f66-53d6c5919b44.jpg"/>
 </div>
 <div class="post_flex_center_center">
     （平行分论坛2合照）
@@ -159,7 +159,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 **平行分论坛3主题为“机器学习与数据挖掘前沿方法”**，李月莹、周振坤、刘书成等三位汇报人进行论文汇报，由电子科技大学公共管理学院教授贾开担任主持人，浙江大学公共管理学院计算社会科学研究中心主任吴超和清华大学政治学系方鹿敏担任评论人。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/dd1a87a6-c222-4f02-aede-d8085e499de7.png"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/dd1a87a6-c222-4f02-aede-d8085e499de7.png"/>
 </div>
 <div class="post_flex_center_center">
     （平行分论坛3合照）
@@ -176,7 +176,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 **平行论坛4主题为“计算传播学”**，孟啸、孙琪、周斌、方鹿敏、鲁肖麟等五位汇报人进行论文汇报，由浙江工商大学公共管理学院院长汪锦军担任主持人，清华大学社会科学学院政治学系副教授胡悦担任评论人。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/bdbad133-5e0c-4f52-ac7f-18bb1ce87f69.png"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/bdbad133-5e0c-4f52-ac7f-18bb1ce87f69.png"/>
 </div>
 <div class="post_flex_center_center">
     （平行分论坛4合照）
@@ -197,7 +197,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 **平行分论坛5围绕“智能革命及其治理”的主题展开**，贾开、阙天舒、俞晗之、张智敏与臧雷振等五位汇报人进行论文汇报，由中国人民大学公共管理学院马亮老师主持，复旦大学国际关系与公共事务学院胡业飞老师、浙江大学公共管理学院黄飚老师作为联合评论人进行了点评。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/5b702a1e-4486-47bb-8820-e61fa1d708a4.png"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/5b702a1e-4486-47bb-8820-e61fa1d708a4.png"/>
 </div>
 <div class="post_flex_center_center">
     （平行分论坛5合照）
@@ -218,7 +218,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 **平行分论坛6围绕“社会计算与仿真模拟的前沿探索”的主题展开，傅曼青、左任衔、张梦婷与胡智文等四位汇报人进行了论文汇报**，平行论坛由浙江大学公共管理学院蒋卓人研究院和清华大学政治学系严宇博士后作为评论人进行了点评。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/1bd76d95-e0c0-4671-b325-c836097419b0.png"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/1bd76d95-e0c0-4671-b325-c836097419b0.png"/>
 </div>
 <div class="post_flex_center_center">
     （平行分论坛6合照）
@@ -236,7 +236,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 圆桌论坛由浙江大学公共管理学院副院长高翔教授主持，9位社会科学专家和实务专家围绕“社会科学数据资源建设与开放”进行了深入讨论。高翔教授简要介绍第四届的中国计算社会科学高端论坛的主题，强调了建设社会科学数据资源对构筑中国自主的哲学社会科学体系的重要意义，对圆桌会议出席的各位嘉宾表示诚挚欢迎。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/6b64c370-19f8-478a-922c-f7f774358a74.jpg"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/6b64c370-19f8-478a-922c-f7f774358a74.jpg"/>
 </div>
 <div class="post_flex_center_center">
     （圆桌论坛合照）
@@ -265,7 +265,7 @@ thumbnail_in_body: http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a
 闭幕式由浙江工商大学社会科学研究院院长高燕进行主持，浙江大学高翔教授进行总结并宣布优秀论文。
 
 <div class="post_flex_center_center">
-    <img style="max-width: 60%" src="http://www.spa.zju.edu.cn/_upload/article/images/3b/37/162d0a054e5fb89e5e504b411357/9b24f8de-d7f9-4327-b2da-8be203f56220.png"/>
+    <img style="max-width: 60%" src="/img/tsinghua/2022/9b24f8de-d7f9-4327-b2da-8be203f56220.png"/>
 </div>
 <div class="post_flex_center_center">
     （高翔教授总结）
