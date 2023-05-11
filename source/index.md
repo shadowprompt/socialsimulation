@@ -17,7 +17,7 @@ layout: homepage
             <div class="swiper-slide">
                 <div class="inner">
                     <a href="/events/">
-                        <figure><img src="/img/banner1.jpeg"></figure>
+                        <figure><img src="/img/isss/isss_2023.jpg"></figure>
                     </a>
                 </div>
             </div>
