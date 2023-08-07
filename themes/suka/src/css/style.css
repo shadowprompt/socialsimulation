@@ -1574,7 +1574,7 @@ a.timeline-tile-title span:hover {
     line-height: 48px;
     flex: 1;
     position: relative;
-    display: inline-block;
+    display: table-cell;
 }
 .h_nav_tree .first>li .enName {
     line-height: 1.2;
