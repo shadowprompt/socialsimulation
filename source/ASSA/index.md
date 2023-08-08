@@ -28,6 +28,4 @@ Prof. Hang Ye (Zhejiang University of Finance & Economics)
 Prof. Guocheng Wang (University of Chinese Academy of Social Sciences)
 Prof. Shu-heng Chen (National Chengchi University)
 Prof. Stephan Onggo (University of Southampton)
-**Honorary President: Prof. Songchun Zhu (Peking University)**
-**Presidium: President, President-elect, Vice Presidents**
-**Secretariat: Secretary, Treasurer**
+**Honorary President:** Prof. Songchun Zhu (Peking University)
