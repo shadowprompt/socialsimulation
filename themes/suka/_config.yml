@@ -148,7 +148,7 @@ _BEHAVE_intro: <div>
 _categoryByGridsColumns: 4
 _categoryByGrids: trainings
 _categoryByGridsList: CSS
-_trainingsList: CSS@华中农大-帝国理工“计算社会科学方法论”暑期学校,SPHSU@European Social Simulation Conference 欧洲社会仿真学会,BEHAVE@BEHAVE Summer School BEHAVE暑期学校,IAMO@IAMO Forum IAMO论坛
+_trainingsList: CSS@HZAU-IC Summer School on Methodology of Computational Social Science,SPHSU@Social Simulation Conference,BEHAVE@BEHAVE Summer School,IAMO@IAMO Forum
 # index from 0
 _grid_trainings/CSS: 4
 # 因banner造成的偏移数量
