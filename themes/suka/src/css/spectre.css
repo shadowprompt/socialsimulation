@@ -784,7 +784,12 @@ dl dd {
   -ms-flex: 1 0 0;
   flex: 1 0 0;
 }
-
+.form-title {
+  text-align: left;
+  margin-bottom: 16px;
+  font-size: 24px;
+  font-weight: bold;
+}
 .form-group:not(:last-child) {
   margin-bottom: .4rem;
 }
