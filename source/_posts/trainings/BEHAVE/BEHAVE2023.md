@@ -2,7 +2,7 @@
 date: 2023-04-10 18:15:01
 title: "Behave Summer School 2023"
 categories:
-- [training, BEHAVE, 2023]
+- [trainings, BEHAVE, 2023]
 thumbnail_in_body: /img/behave/behave_2023.png
 ---
 

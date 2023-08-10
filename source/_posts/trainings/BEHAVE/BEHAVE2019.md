@@ -2,7 +2,7 @@
 date: 2019-04-10 18:15:01
 title: "Behave Summer School 2019"
 categories:
-- [training, BEHAVE, 2019]
+- [trainings, BEHAVE, 2019]
 thumbnail_in_body: /img/behave/behave_2019.jpg
 ---
 

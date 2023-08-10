@@ -121,7 +121,7 @@ qrcode:
 # 文章列表是否显示标题
 _showCategoryTitle: false
 
-_categorySpecial: events|training
+_categorySpecial: events|trainings
 _eventsList: ISSS@International Symposium on Social Simulation 社会仿真国际研讨会,ESSA@Social Simulation Conference社会仿真大会,ICCS@International Conference on Computational Social Science计算社会科学国际会议,CSSSA@Computational Social Science Society of the Americas 美洲计算社会科学学会年会,CSU@中国计算社会科学论坛,tsinghua@全国计算社会科学高端论坛
 
 _ESSA_intro: <div>
@@ -146,20 +146,20 @@ _BEHAVE_intro: <div>
   </div>
 
 _categoryByGridsColumns: 4
-_categoryByGrids: training
+_categoryByGrids: trainings
 _categoryByGridsList: CSS
-_trainingList: CSS@华中农大-帝国理工“计算社会科学方法论”暑期学校,SPHSU@European Social Simulation Conference 欧洲社会仿真学会,BEHAVE@BEHAVE Summer School BEHAVE暑期学校,IAMO@IAMO Forum IAMO论坛
+_trainingsList: CSS@华中农大-帝国理工“计算社会科学方法论”暑期学校,SPHSU@European Social Simulation Conference 欧洲社会仿真学会,BEHAVE@BEHAVE Summer School BEHAVE暑期学校,IAMO@IAMO Forum IAMO论坛
 # index from 0
-_grid_training/CSS: 4
+_grid_trainings/CSS: 4
 # 因banner造成的偏移数量
-_grid_banner_training/CSS: 1
+_grid_banner_trainings/CSS: 1
 
 # index from 0
 _grid_events/ISSS: 4
 # 因banner造成的偏移数量
 _grid_banner_events/ISSS: 1
 
-_superCategory: events/ISSS|training/CSS
+_superCategory: events/ISSS|trainings/CSS
 # ---------------------------------------------------------------
 # Post Settings
 # ---------------------------------------------------------------

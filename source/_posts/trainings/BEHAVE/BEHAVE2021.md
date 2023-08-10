@@ -2,7 +2,7 @@
 date: 2021-04-10 18:15:01
 title: "Behave Summer School 2021"
 categories:
-- [training, BEHAVE, 2021]
+- [trainings, BEHAVE, 2021]
 thumbnail_in_body: /img/behave/behave_2021.jpg
 ---
 

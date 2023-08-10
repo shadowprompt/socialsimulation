@@ -9,7 +9,7 @@ layout: homepage
         <div class="swiper-wrapper">
             <div class="swiper-slide init">
                 <div class="inner">
-                    <a href="/training/CSS/CSS2023/">
+                    <a href="/trainings/CSS/CSS2023/">
                         <figure><img src="/img/css/summer_school_2023.jpg"></figure>
                     </a>
                 </div>
@@ -23,7 +23,7 @@ layout: homepage
             </div>
             <div class="swiper-slide">
                 <div class="inner">
-                    <a href="//socialsimulation.net/training/CSS/CSS2019/">
+                    <a href="/trainings/CSS/CSS2019/">
                         <figure><img src="/img/css/summer_school_2019_1480x880.jpg"></figure>
                     </a>
                 </div>

@@ -2,7 +2,7 @@
 date: 2020-04-10 18:15:01
 title: "Behave Summer School 2020"
 categories:
-- [training, BEHAVE, 2020]
+- [trainings, BEHAVE, 2020]
 thumbnail_in_body: /img/behave/behave_2020.jpg
 ---
 
