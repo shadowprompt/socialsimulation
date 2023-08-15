@@ -1663,15 +1663,16 @@ a.timeline-tile-title span:hover {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 12px 0;
 }
 .h_nav_header .h_title_area {
     flex: 1;
     text-align: left;
 }
 .h_logo{
-    height: 48px;
+    height: 80px;
     margin-right: 8px;
+    margin-bottom: -1px; /* 图片底部有白边调整margin-bottom z-index盖住*/
+    z-index: -1;
 }
 .h_title {
     font-size: 12px;
