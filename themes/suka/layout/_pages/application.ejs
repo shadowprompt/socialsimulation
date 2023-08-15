@@ -195,6 +195,37 @@
                             </div>
                         </div>
                         <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">
+                                    <span class="primaryItem">
+                                        Membership fee
+                                    </span>
+                                </span>
+                            </div>
+                            <div class="col-lg-3 col-md-3">
+                                <select class="membershipPicker" value="1">
+                                    <option value="1">Member (normal rate)</option>
+                                    <option value="2">Member (reduced rate)</option>
+                                    <option value="3">Senior Member</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">
+                                    <span class="primaryItem">
+
+                                    </span>
+                                </span>
+                            </div>
+                            <div class="col-lg-10 col-md-10 membershipDesc">
+                                <div>
+                                    <div>for non-student participants, with the right to vote and to stand for election.</div>
+                                    <div>Rate: ￥1000 RMB or $125 USD for 2 years</div>
+                                <div>
+                            </div>
+                        </div>
+                        <div class="form-group row">
                             <div class="col-lg-6 col-md-6">
                                 <a href="http://www.essa.eu.org/support/" target="_blank">Want to sponsor us?</a>
                             </div>
@@ -219,7 +250,27 @@
             serverURLs: "https://n87e56pd.lc-cn-n1-shared.com"
         });
 
-        const formItem = document.querySelector('#ajax-contact');
+        window.jQuery(".membershipPicker").change(function(){
+            var value = window.jQuery(".membershipPicker").val();
+            var valueMap = {
+                1: `<div>
+                        <div>for non-student participants, with the right to vote and to stand for election.</div>
+                        <div>Rate: ￥1000 RMB or $125 USD for 2 years</div>
+                    <div>`,
+                2: `<div>
+                        <div>for undergraduate and postgraduate students, with the right to vote and to stand for election.</div>
+                        <div>Rate: ￥200 RMB or $25 USD for 2 years</div>
+                    <div>`,
+                3: `<div>
+                        <div>for non-student participants owning a senior professional title, without the right to vote and to stand for election.</div>
+                        <div>Rate: free</div>
+                    <div>`,
+            }
+            var text = valueMap[value];
+            window.jQuery('.membershipDesc').html(text);
+        });  //为Select添加事件，当选择其中一项时触发
+
+            const formItem = document.querySelector('#ajax-contact');
         formItem && formItem.addEventListener('submit', submitFn);
 
         function submitFn(e) {

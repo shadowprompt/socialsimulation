@@ -790,6 +790,13 @@ dl dd {
   font-size: 24px;
   font-weight: bold;
 }
+.membershipPicker {
+  font-size: 16px;
+}
+.membershipDesc {
+  font-size: 16px;
+  text-align: left;
+}
 .form-group:not(:last-child) {
   margin-bottom: .4rem;
 }
