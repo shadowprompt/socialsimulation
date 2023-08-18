@@ -1,11 +1,11 @@
 ---
-date: 2023-0818 15:16:01
-title: "Zhou HE and his team proposed strategies for restaurants in O2O markets using an agent-based model."
+date: 2023-08-18 10:40:00
+title: "Zhou HE and his team proposed strategies for restaurants in O2O markets using an agent-based model"
 categories:
 - [news]
 thumbnail_in_body: /img/news/O2O_markets_abo.png
 ---
-## <div class="post_flex_center_center">Zhou HE and his team proposed strategies for restaurants in O2O markets using an agent-based model.</div>
+## <div class="post_flex_center_center">Zhou HE and his team proposed strategies for restaurants in O2O markets using an agent-based model</div>
 
 
 Prof. Zhou HE and his team published a paper in the International Journal of Production Economics. This paper uses an agent-based model to put forward the optimist decisions of independent restaurants in O2O food ordering and delivery markets.
