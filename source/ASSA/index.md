@@ -11,18 +11,19 @@ ASSA aims to promoting the development of social simulation in Asia and more wid
 [**ASSA Constitute**](/ASSA/constitute)
 
 **Advisory Board**
-Flaminio Squazzoni (University of Milan)
-Nigel Gilbert (University of Surrey)
 Albert Bakhtizin (Russian Academy of Sciences)
-Leigh Tesfatsion (Iowa State University)
+Bin Hu (Huazhong University of Science and Technology)
 Dawn Paker (University of Waterloo)
+Feiyue Wang（Institute of Automation，Chinese Academy of Sciences）
+Flaminio Squazzoni (University of Milan)
 Georgiy Bobashev (RTI International)
+Leigh Tesfatsion (Iowa State University)
 Liu Hong (Fudan University)
-Zhaohan Sheng (Nanjing University)
+Nigel Gilbert (University of Surrey)
 Ruguo Fan (Wuhan University)
-Yucheng Liang (Sun Yat-sen University)
 Shu-heng Chen (National Chengchi University)
 Stephan Onggo (University of Southampton)
+Yucheng Liang (Sun Yat-sen University)
 **Honorary President**: Prof. Songchun Zhu (Peking University)
 **President**: Hang Xiong (Huazhong Agricultural University)
 **President-elect**: Peng Lu (Central South University)
@@ -30,7 +31,7 @@ Stephan Onggo (University of Southampton)
 Zhanli "Jerry" Sun (Leibniz Institute of Agricultural Development in Transition Economies, IAMO)
 Jiang Wu (Wuhan University)
 **Secretary-general**: Zhou He (University of the Chinese Academy of Sciences)
-Vice Secretary-general
+**Vice Secretary-general**
 Dehua Gao (Shandong Technology and Business University)
 Yueji Zhu (Hainan University)
 Yue Dou (University of Twente)
