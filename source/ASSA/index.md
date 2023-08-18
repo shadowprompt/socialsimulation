@@ -17,6 +17,7 @@ Dawn Paker (University of Waterloo)
 Feiyue Wang（Institute of Automation, Chinese Academy of Sciences）
 Flaminio Squazzoni (University of Milan)
 Georgiy Bobashev (RTI International)
+Hang Ye (Zhejiang University, Zhejiang University of Finance & Economics)
 Leigh Tesfatsion (Iowa State University)
 Liu Hong (Fudan University)
 Nigel Gilbert (University of Surrey)
