@@ -1570,11 +1570,15 @@ a.timeline-tile-title span:hover {
     height: 52px;
     list-style: none;
     text-align: center;
-    padding: 12px 4px;
     line-height: 48px;
     flex: 1;
     position: relative;
     display: table-cell;
+}
+.h_nav_tree .first>li>a {
+    display: flex;
+    align-items: center;
+    padding: 12px 4px;
 }
 .h_nav_tree .first>li .enName {
     line-height: 1.2;
@@ -1716,7 +1720,7 @@ a.timeline-tile-title span:hover {
     .h_nav_tree {
         font-size: 14px;
     }
-    .h_nav_tree .first>li {
+    .h_nav_tree .first>li>a {
         padding: 8px 8px;
     }
     .h_nav_tree .first>li.active:after {
@@ -1740,7 +1744,7 @@ a.timeline-tile-title span:hover {
         padding-right: 1rem;
         padding-left: 1rem;
     }
-    .h_nav_tree .first>li {
+    .h_nav_tree .first>li>a {
         padding: 8px 20px;
     }
 }
@@ -1750,6 +1754,8 @@ a.timeline-tile-title span:hover {
     }
     .h_nav_tree .first>li {
         height: 64px;
+    }
+    .h_nav_tree .first>li>a {
         padding: 10px 20px;
     }
     .h_logo{
