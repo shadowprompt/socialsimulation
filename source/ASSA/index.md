@@ -32,6 +32,8 @@ Yucheng Liang (Sun Yat-sen University)
 **Vice Presidents**
 Zhanli "Jerry" Sun (Leibniz Institute of Agricultural Development in Transition Economies, IAMO)
 Jiang Wu (Wuhan University)
+Gary Tan (National University of Singapore)
+Jason Thompson (University of Melbourne)
 **Secretary-general**: Zhou He (University of the Chinese Academy of Sciences)
 **Vice Secretary-general**
 Dehua Gao (Shandong Technology and Business University)

@@ -1,15 +1,15 @@
-### SIG-YS: Young Scientists
-*SIG Chairs: Teng Li; Dianhan Chen*
+### Young Scientists
+*Chairs: Teng Li; Dianhan Chen*
 
-***SIG's scope***
+***Scope***
 
 The committee primarily targets primarily targets doctoral and master's researchers and is dedicated to promoting the development of social simulation research in the Asian region. Our research areas encompass a broad spectrum, including, but not confined to social phenomena such as crowd evacuation, opinion polarization and spread, epidemic spread, farmer behavior and consumer decision-making.
 
-***SIG's aims and activities***
+***Aims and activities***
 
 Through the establishment of this committee, we aim to provide a platform for communication, learning, and collaboration among young researchers interested in social simulation, and facilitate the growth of young researchers. We aspire to achieve this vision through the following avenues: (1) Facilitating knowledge exchange and sharing: Through irregular organization of academic conferences, discussion groups, and lectures, we encourage extensive and in-depth communication among members, sharing their research findings and experiences; (2) Promoting collaboration and partnerships: Organizing collaborative workshops and project showcases aims to stimulate potential research partnerships among interest group members. We will also actively seek alliances with other pertinent academic organizations and institutions further enhances collaboration opportunities; (3) Providing academic support and resources: We will organize special seminars, summer schools, and academic guidance activities to enable members to gain understanding of the cutting-edge theories and practical applications in the field of social simulation. The summer school will also facilitate research findings' showcasing and idea exchange, fortifying academic networks; (4) Promoting career development and networking: Career development workshops and sharing employment information equip members with insights into career opportunities and industry trends within the domain of social simulation.
 
-***SIG’s types of actions aimed at and expected results***
+***Types of actions aimed at and expected results***
 
 The expected outcome of these activities would be to communicate and cooperate among partners sincerely among young scientists to promote their interest and ability development in the field of social simulation:</br>
 Research Collaborations: Members of the SIG-YS collaborate on research projects that involve developing and refining social simulation models to replicate the behaviors and decisions of young scientists in Asian contexts. </br>
@@ -27,6 +27,3 @@ Methodological Advancements: The SIG's work could lead to advancements in social
 
 We plan to use Zoom and VOOV meetings for the reading group, seminar series activities, and face-to-face communication for summer schools and the special session at the ASSA annual conference. Mailing Lists can also be an option.
 
-***SIG’s short name (no blanks) as the subdomain of the ASSA website***
-
-youngscientists
