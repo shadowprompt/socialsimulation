@@ -1,10 +1,10 @@
 According to the agreement between ASSA and Huazhong Agricultural University (the organizer of 2023 Annual Conference), the membership dues paid in 2023 will be collected by Huazhong Agricultural University on behalf of ASSA. ASSA will provide an official invoice for each of the payment. While making the payment, one needs to include the words "ASSA membership fee – [Your Full Name]" in the massage box. The bank account details of Huazhong Agricultural University are as follows:
 
-<table>
+<table width="400px">
     <tbody>
         <tr>
-            <td>Beneficiary: </td>
-            <td>Huazhong Agricultural University</td>
+            <td style="width: 180px">Beneficiary: </td>
+            <td style="width: 440px">Huazhong Agricultural University</td>
         </tr>
         <tr>
             <td>Beneficiary's/c No. : </td>
@@ -34,8 +34,8 @@ According to the agreement between ASSA and Huazhong Agricultural University (th
 <table>
     <tbody>
         <tr>
-            <td>账户名称：</td>
-            <td>华中农业大学</td>
+            <td style="width: 180px">账户名称：</td>
+            <td style="width: 440px">华中农业大学</td>
         </tr>
         <tr>
             <td>账号：</td>

@@ -48,11 +48,11 @@
 <!--                                    </span>-->
                                 </span>
                             </div>
-                            <div class="col-lg-3 col-md-3">
+                            <div class="col-lg-4 col-md-4" style="text-align: left">
                                 <select class="selectPicker" id="sex" value="1">
-                                    <option value="Male">Male</option>
-                                    <option value="Female">Female</option>
-                                    <option value="Not_to_say">Prefer not to say</option>
+                                    <option value="1">Male</option>
+                                    <option value="2">Female</option>
+                                    <option value="3">Prefer not to say</option>
                                 </select>
                             </div>
                         </div>
@@ -67,8 +67,13 @@
 <!--                                    </span>-->
                                 </span>
                             </div>
-                            <div class="col-lg-4 col-md-4">
-                                <input type="text" class="form-control" id="degree">
+                            <div class="col-lg-4 col-md-4" style="text-align: left">
+                                <select class="selectPicker" id="degree" value="1">
+                                    <option value="1">Bachelor's Degree</option>
+                                    <option value="2">Master's Degree</option>
+                                    <option value="3">Ph.D</option>
+                                    <option value="4">Other</option>
+                                </select>
                             </div>
                             <div class="col-lg-2 col-md-2">
                                 <span class="contact-label">
@@ -208,7 +213,7 @@
                                     </span>
                                 </span>
                             </div>
-                            <div class="col-lg-3 col-md-3">
+                            <div class="col-lg-4 col-md-4" style="text-align: left">
                                 <select class="selectPicker" id="membership" value="1">
                                     <option value="1">Member (normal dues)</option>
                                     <option value="2">Member (reduced dues)</option>
@@ -227,12 +232,13 @@
                             <div class="col-lg-10 col-md-10 selectDesc membershipDesc">
                                 <div>
                                     <div>For regular (non-student) participants, with the right to vote and to stand for election.</div>
-                                    <div>Dues: $125 USD for 2 years</div>
+                                    <p>Dues: $125 USD for 2 years</p>
+                                    <div style="color: #ff8200">Details needed for making the invoice (in English or Chinese)</div>
                                 </div>
                             </div>
                         </div>
                         <button type="submit" class="submitBtn" onsubmit="submitFn()">
-                            Pay Member Dues and Download Invoice
+                            Submit Information and Pay Membership Dues
                         </button>
                         <div id="form-message">
                         </div>
@@ -255,19 +261,21 @@
             const membershipDescMap = {
                 1: `<div>
                         <div>For regular (non-student) participants, with the right to vote and to stand for election.</div>
-                        <div>Dues: $125 USD for 2 years</div>
+                        <p>Dues: $125 USD for 2 years</p>
+                        <div style="color: #ff8200">Details needed for making the invoice (in English or Chinese)</div>
                     <div>`,
                 2: `<div>
                         <div>Only for student participants, with the right to vote and to stand for election. The email address must contain the university/college/institution domain to verify the student's identity.</div>
-                        <div>Dues: $25 USD for 2 years</div>
+                        <p>Dues: $25 USD for 2 years</p>
+                        <div style="color: #ff8200">Details needed for making the invoice (in English or Chinese)</div>
                     <div>`,
                 3: `<div>
-                        <div>For participants without the right to vote and to stand for election.</div>
+                        <div>For senior scholars not considering the right to vote and to stand for election.</div>
                     <div>`,
             }
             const submitBtnMap = {
-                1: `Pay Member Dues and Download Invoice`,
-                2: `Pay Member Dues and Download Invoice`,
+                1: `Submit Information and Pay Membership Dues`,
+                2: `Submit Information and Pay Membership Dues`,
                 3: `Submit Registration Form`,
             }
             const value = window.jQuery("#membership").val();
