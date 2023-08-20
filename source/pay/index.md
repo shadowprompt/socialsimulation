@@ -1,4 +1,4 @@
-According to the agreement between the ASSA and Huazhong Agricultural University (the organizer of the first annual meeting), the membership fee paid in 2023 will be collected by Huazhong Agricultural University, and the ASSA will issue an official invoice to your email address. When remittance payment, the words "ASSA membership fee – [Your Full Name]" must be indicated. The transfer account information of Huazhong Agricultural University is as follows:
+According to the agreement between ASSA and Huazhong Agricultural University (the organizer of 2023 Annual Conference), the membership dues paid in 2023 will be collected by Huazhong Agricultural University on behalf of ASSA. ASSA will provide an official invoice for each of the payment. While making the payment, one needs to include the words "ASSA membership fee – [Your Full Name]" in the massage box. The bank account details of Huazhong Agricultural University are as follows:
 
 <table>
     <tbody>
@@ -27,7 +27,9 @@ According to the agreement between the ASSA and Huazhong Agricultural University
 
 <hr>
 
-经学会与首届年会承办单位华中农业大学商定，2023年度缴纳的会费由华中农业大学代收，学会将统一开具正式发票发送至您的邮箱地址。汇款缴费时需注明“ASSA membership fee – [Your Full Name]”字样。华中农业大学转账汇款账户信息如下：
+经学会与首届年会承办单位华中农业大学商定，2023年度缴纳的会费由华中农业大学代收，学会将统一开具正式发票。
+
+会费标准为普通会员两年1000元，学生会员两年200元。汇款缴费时需注明“ASSA membership fee – [Your Full Name]”字样。华中农业大学转账汇款账户信息如下：
 
 <table>
     <tbody>
