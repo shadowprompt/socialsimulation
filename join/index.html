@@ -139,7 +139,7 @@
     <meta name="mobile-web-app-capable" content="yes"><meta name="application-name" content="Asian Social Simulation Association"><meta name="msapplication-starturl" content="https://socialsimulation.net"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Asian Social Simulation Association"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
     <!-- ### The Open Graph & Twitter Card Protocol ### -->
-    <meta property="og:title" content="Get Involved | Asian Social Simulation Association"><meta property="og:site_name" content="Asian Social Simulation Association"><meta property="og:type" content="website"><meta property="og:url" content="https://socialsimulation.net/join/"><meta property="og:locale" content="en"><meta name="description" content="John Doe - Asian Social Simulation Association"><meta property="article:published_time" content="2023-08-20T01:35:16.352Z"><meta property="article:modified_time" content="2023-08-20T01:35:16.352Z"><meta property="og:updated_time" content="2023-08-20T01:35:16.352Z">
+    <meta property="og:title" content="Get Involved | Asian Social Simulation Association"><meta property="og:site_name" content="Asian Social Simulation Association"><meta property="og:type" content="website"><meta property="og:url" content="https://socialsimulation.net/join/"><meta property="og:locale" content="en"><meta name="description" content="John Doe - Asian Social Simulation Association"><meta property="article:published_time" content="2023-08-20T01:58:17.977Z"><meta property="article:modified_time" content="2023-08-20T01:58:17.977Z"><meta property="og:updated_time" content="2023-08-20T01:58:17.977Z">
 
     
 
@@ -493,14 +493,14 @@
                             <div class="col-lg-2 col-md-2">
                                 <span class="contact-label fieldRequired">
                                     <span class="primaryItem">
-                                        Membership fee
+                                        Membership dues
                                     </span>
                                 </span>
                             </div>
                             <div class="col-lg-3 col-md-3">
                                 <select class="selectPicker" id="membership" value="1">
-                                    <option value="1">Member (normal rate)</option>
-                                    <option value="2">Member (reduced rate)</option>
+                                    <option value="1">Member (normal dues)</option>
+                                    <option value="2">Member (reduced dues)</option>
                                     <option value="3">Honorary Member</option>
                                 </select>
                             </div>
@@ -515,12 +515,13 @@
                             </div>
                             <div class="col-lg-10 col-md-10 selectDesc membershipDesc">
                                 <div>
-                                    For regular (non-student) participants, with the right to vote and to stand for election.
+                                    <div>For regular (non-student) participants, with the right to vote and to stand for election.</div>
+                                    <div>Dues: $125 USD for 2 years</div>
                                 </div>
                             </div>
                         </div>
                         <button type="submit" class="submitBtn" onsubmit="submitFn()">
-                            Pay Member Fee and Download Invoice
+                            Pay Member Dues and Download Invoice
                         </button>
                         <div id="form-message">
                         </div>
@@ -542,18 +543,20 @@
         window.jQuery("#membership").change(function(){
             const membershipDescMap = {
                 1: `<div>
-                        For regular (non-student) participants, with the right to vote and to stand for election.
+                        <div>For regular (non-student) participants, with the right to vote and to stand for election.</div>
+                        <div>Dues: $125 USD for 2 years</div>
                     <div>`,
                 2: `<div>
-                        Only for student participants, with the right to vote and to stand for election. The email address must contain the university/college/institution domain to verify the student's identity.
+                        <div>Only for student participants, with the right to vote and to stand for election. The email address must contain the university/college/institution domain to verify the student's identity.</div>
+                        <div>Dues: $25 USD for 2 years</div>
                     <div>`,
                 3: `<div>
-                        For participants without the right to vote and to stand for election.
+                        <div>For participants without the right to vote and to stand for election.</div>
                     <div>`,
             }
             const submitBtnMap = {
-                1: `Pay Member Fee and Download Invoice`,
-                2: `Pay Member Fee and Download Invoice`,
+                1: `Pay Member Dues and Download Invoice`,
+                2: `Pay Member Dues and Download Invoice`,
                 3: `Submit Registration Form`,
             }
             const value = window.jQuery("#membership").val();
