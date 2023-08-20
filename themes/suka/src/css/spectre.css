@@ -790,10 +790,10 @@ dl dd {
   font-size: 24px;
   font-weight: bold;
 }
-.membershipPicker {
+.selectPicker {
   font-size: 16px;
 }
-.membershipDesc {
+.selectDesc {
   font-size: 16px;
   text-align: left;
 }
