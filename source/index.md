@@ -9,23 +9,19 @@ layout: homepage
         <div class="swiper-wrapper">
             <div class="swiper-slide init">
                 <div class="inner">
-                    <a href="/trainings/CSS/CSS2023/">
-                        <figure><img src="/img/css/summer_school_2023.jpg"></figure>
-                    </a>
+                        <figure><img src="/img/swiper/1.jpg"></figure>
                 </div>
             </div>
             <div class="swiper-slide">
                 <div class="inner">
                     <a href="/events/">
-                        <figure><img src="/img/isss/isss_2023.jpg"></figure>
+                        <figure><img src="/img/swiper/2.jpg"></figure>
                     </a>
                 </div>
             </div>
             <div class="swiper-slide">
                 <div class="inner">
-                    <a href="/trainings/CSS/CSS2019/">
-                        <figure><img src="/img/css/summer_school_2019_1480x880.jpg"></figure>
-                    </a>
+                        <figure><img src="/img/swiper/3_1440x810.jpg"></figure>
                 </div>
             </div>
         </div>
