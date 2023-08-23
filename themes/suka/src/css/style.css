@@ -1675,7 +1675,7 @@ a.timeline-tile-title span:hover {
 .h_logo{
     height: 80px;
     margin-right: 8px;
-    margin-bottom: -1px; /* 图片底部有白边调整margin-bottom z-index盖住*/
+    margin-left: -17px;  /* 图片底部有白边调整margin-bottom z-index盖住*/
     z-index: -1;
 }
 .h_title {
