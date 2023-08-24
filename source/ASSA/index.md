@@ -1,11 +1,11 @@
 ### ASSA
 
-The Asian Social Simulation Association (ASSA) promotes the development of social simulation research, education and application in Asia.
-ASSA aims to promoting the development of social simulation in Asia and more widely. To achieve this aim, we make efforts to
+The Asian Social Simulation Association (ASSA) promotes the development of social simulation research, education, and application in Asia.
+ASSA aims to promote the development of social simulation in Asia and more widely. To achieve this aim, we make efforts to
 
-- encourage and faciliating international exchange and cooperation
+- encourage and facilitate international exchange and cooperation
 - provide education and training opportunities for learning social simulation methods
-- support the development of courses, textbooks and disciplines in social simulation
+- support the development of courses, textbooks, and disciplines in social simulation
 - favour applied social simulation research that responds to important stakeholders' needs
 
 [**ASSA Constitute**](/ASSA/constitute)
