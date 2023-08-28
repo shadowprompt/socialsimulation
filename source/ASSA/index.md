@@ -13,18 +13,15 @@ ASSA aims to promote the development of social simulation in Asia and more widel
 **Advisory Board**
 Albert Bakhtizin (Russian Academy of Sciences)
 Bin Hu (Huazhong University of Science and Technology)
-Dawn Paker (University of Waterloo)
 Feiyue Wang（Institute of Automation, Chinese Academy of Sciences）
 Flaminio Squazzoni (University of Milan)
 Georgiy Bobashev (RTI International)
 Hang Ye (Zhejiang University, Zhejiang University of Finance & Economics)
-Liu Hong (Fudan University)
 Nigel Gilbert (University of Surrey)
 Ruguo Fan (Wuhan University)
 Shu-heng Chen (National Chengchi University)
 Shouyang Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences)
 Stephan Onggo (University of Southampton)
-Yucheng Liang (Sun Yat-sen University)
 **Honorary President**: Songchun Zhu (Peking University)
 **President**: Hang Xiong (Huazhong Agricultural University)
 **President-elect**: Peng Lu (Central South University)
