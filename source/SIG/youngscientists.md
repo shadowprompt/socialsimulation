@@ -1,5 +1,5 @@
 ### Young Scientists
-*Chairs: Teng Li; Dianhan Chen*
+*Chairs: Teng Li (teng.li@rug.nl), Dianhan Chen (841204612@qq.com)*
 
 ***Scope***
 

@@ -1,5 +1,5 @@
 ### ABMOMS: ABM in Organization & Management Science
-*Chairs: Dehua Gao (Shandong Technology and Business University), Zhou He (University of Chinese Academy of Sciences)*
+*Chairs: Dehua Gao (Shandong Technology and Business University, dhuagao@sdtbu.edu.cn), Zhou He (University of Chinese Academy of Sciences, hezhou@ucas.ac.cn)*
 
 ***Scope***
 
