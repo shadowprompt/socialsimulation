@@ -785,6 +785,9 @@ a.category-link {
 
 #post-content a {
     background-color: transparent;
+    text-decoration: none;
+}
+#post-content a[href^="/"] {
     text-decoration: underline;
 }
 /* 用icon指示链接 */
@@ -793,6 +796,9 @@ a.category-link {
     font-family:"iconfont" !important;
     font-size:16px;
     font-style:normal;
+}
+#post-content a[href^="http"] {
+    text-decoration: underline;
 }
 #post-content a[href^="http"]:after {
     content: '\e900';
