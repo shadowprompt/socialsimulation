@@ -7,4 +7,5 @@ node_modules/
 .deploy*/
 _multiconfig.yml
 .idea
+.vscode
 themes/suka/.github/
