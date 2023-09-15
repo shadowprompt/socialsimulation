@@ -7,11 +7,6 @@ layout: homepage
 <div class="activity-gallery">
     <div class="swiper-container">
         <div class="swiper-wrapper">
-            <div class="swiper-slide init">
-                <div class="inner">
-                        <figure><img src="/img/swiper/1.jpg"></figure>
-                </div>
-            </div>
             <div class="swiper-slide">
                 <div class="inner">
                     <a href="/events/">
@@ -21,7 +16,7 @@ layout: homepage
             </div>
             <div class="swiper-slide">
                 <div class="inner">
-                        <figure><img src="/img/swiper/3_1440x810.jpg"></figure>
+                        <figure><img src="/img/swiper/3.jpg"></figure>
                 </div>
             </div>
         </div>
