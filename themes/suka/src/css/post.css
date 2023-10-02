@@ -1,6 +1,12 @@
 .post_flex {
     display: flex;
 }
+.post_flex_1 {
+    flex: 1;
+}
+.post_flex_2 {
+    flex: 2;
+}
 .post_flex_p {
     display: flex;
     margin-top: 0;
@@ -35,9 +41,11 @@
     position: absolute;
     left: 0;
 }
+/* 首行缩进2个字符 */
 .post_textIntend2 {
     text-indent: 2em;
 }
+/* 首行缩进4个字符 */
 .post_textIntend4 {
     text-indent: 4em;
 }
@@ -50,14 +58,22 @@
     width: 4em;
 }
 
-.post_flex_1 {
-    flex: 1;
+/* 文字对齐方式 */
+.post_textAlign_left {
+    text-align: left;
 }
-.post_flex_2 {
-    flex: 2;
+.post_textAlign_right {
+    text-align: right;
+}
+.post_textAlign_center {
+    text-align: center;
+}
+/* 文字两端对齐 */
+.post_textAlign_justify {
+    text-align: justify;
 }
 
-/* 元素直接有间距 */
+/* 元素之间有间距 */
 .post_block-item {
     flex: 1;
 }
@@ -77,7 +93,7 @@
 .p_center {
     text-align: center;
 }
-/*图片下面的文案*/
+/* 图片下面的文案 */
 ._image_caption {
     text-align: center !important;
     font-size: 12px !important;
