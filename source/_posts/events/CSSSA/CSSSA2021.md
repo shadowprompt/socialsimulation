@@ -8,12 +8,12 @@ thumbnail_in_body: /img/csssa/csssa2021.png
 
 CSS 2021 Santa Fe
 
-### **<div class="post_flex_center_center">The Computational Social Science Society of the Americas</div>**
+### **<div class="mdh-post_flex_center_center">The Computational Social Science Society of the Americas</div>**
 
-# **<div class="post_flex_center_center">CSS 2021</div>**
-# **<div class="post_flex_center_center">Annual Conference</div>**
-# **<div class="post_flex_center_center">Virtual</div>**
-#### **<div class="post_flex_center_center">Nov 4 – 7, 2021</div>**
+# **<div class="mdh-post_flex_center_center">CSS 2021</div>**
+# **<div class="mdh-post_flex_center_center">Annual Conference</div>**
+# **<div class="mdh-post_flex_center_center">Virtual</div>**
+#### **<div class="mdh-post_flex_center_center">Nov 4 – 7, 2021</div>**
 
 **Call for Papers (Submit a Paper)**
 **Conference Registration**
@@ -23,9 +23,9 @@ CSS 2021 Santa Fe
 
 You are invited to participate in the **Computational Social Science (CSS 2021) annual conference**. The conference will be held virtually.
 
-### <div class="post_flex_center_center">Keynote Speakers</div>
-<div class="post_flex_center_center">
-    <img class="post_block-item" src="https://computationalsocialscience.org/wp-content/uploads/2015/04/Axtell-2010.jpeg"/>
+### <div class="mdh-post_flex_center_center">Keynote Speakers</div>
+<div class="mdh-post_flex_center_center">
+    <img class="mdh-post_block-item" src="https://computationalsocialscience.org/wp-content/uploads/2015/04/Axtell-2010.jpeg"/>
 </div>
 
 **Robert Axtell**

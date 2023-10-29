@@ -26,78 +26,78 @@ Students not sufficiently familiar with R will be offered an intermediate Sunday
 
 The list of Invited lecturers, Instructors and Assistants includes:
 
-<div class="post_flex_center">
-    <div class="post_block-item">
-        <div class="post_flex_center">
+<div class="mdh-post_flex_center">
+    <div class="mdh-post_block-item">
+        <div class="mdh-post_flex_center">
             <div style="margin-right: 20px">
                 <img width="60px" src="https://abmschool.behavelab.org/images/Alison.jpg" />
             </div>
-            <div class="post_block-item">Alison Heppenstall <br> University of Glasgow, United Kingdom (Invited lecturer)</div>
+            <div class="mdh-post_block-item">Alison Heppenstall <br> University of Glasgow, United Kingdom (Invited lecturer)</div>
         </div>
     </div>
-    <div class="post_block-item">
-        <div class="post_flex_center">
+    <div class="mdh-post_block-item">
+        <div class="mdh-post_flex_center">
             <div style="margin-right: 20px">
                 <img width="60px" src="https://abmschool.behavelab.org/images/Federico.png" />
             </div>
-            <div class="post_block-item">Federico Bianchi <br> University of Milan, Italy</div>
+            <div class="mdh-post_block-item">Federico Bianchi <br> University of Milan, Italy</div>
         </div>
     </div>
 </div>
 
-<div class="post_flex_center">
-    <div class="post_block-item">
-        <div class="post_flex_center">
+<div class="mdh-post_flex_center">
+    <div class="mdh-post_block-item">
+        <div class="mdh-post_flex_center">
             <div style="margin-right: 20px">
                 <img width="60px" src="https://abmschool.behavelab.org/images/Ernesto.jpg" />
             </div>
-            <div class="post_block-item">Ernesto Carrella <br> University of Oxford, United Kingdom</div>
+            <div class="mdh-post_block-item">Ernesto Carrella <br> University of Oxford, United Kingdom</div>
         </div>
     </div>
-    <div class="post_block-item">
-        <div class="post_flex_center">
+    <div class="mdh-post_block-item">
+        <div class="mdh-post_flex_center">
             <div style="margin-right: 20px">
                 <img width="60px" src="https://abmschool.behavelab.org/images/Carlo.PNG" />
             </div>
-            <div class="post_block-item">Carlo De Bernardi <br> University of Milan, Italy (assistant)</div>
+            <div class="mdh-post_block-item">Carlo De Bernardi <br> University of Milan, Italy (assistant)</div>
         </div>
     </div>
 </div>
 
-<div class="post_flex_center">
-    <div class="post_block-item">
-        <div class="post_flex_center">
+<div class="mdh-post_flex_center">
+    <div class="mdh-post_block-item">
+        <div class="mdh-post_flex_center">
             <div style="margin-right: 20px">
                 <img width="60px" src="https://abmschool.behavelab.org/images/Simone.jpg" />
             </div>
-            <div class="post_block-item">Simone Gabbriellini <br> University of Trento, Italy</div>
+            <div class="mdh-post_block-item">Simone Gabbriellini <br> University of Trento, Italy</div>
         </div>
     </div>
-    <div class="post_block-item">
-        <div class="post_flex_center">
+    <div class="mdh-post_block-item">
+        <div class="mdh-post_flex_center">
             <div style="margin-right: 20px">
                 <img width="60px" src="https://abmschool.behavelab.org/images/Nicolas.jpg" />
             </div>
-            <div class="post_block-item">Nicolas Payette <br> University of Oxford, United Kingdom</div>
+            <div class="mdh-post_block-item">Nicolas Payette <br> University of Oxford, United Kingdom</div>
         </div>
     </div>
 </div>
 
-<div class="post_flex_center">
-    <div class="post_block-item">
-        <div class="post_flex_center">
+<div class="mdh-post_flex_center">
+    <div class="mdh-post_block-item">
+        <div class="mdh-post_flex_center">
             <div style="margin-right: 20px">
                 <img width="60px" src="https://abmschool.behavelab.org/images/Francesco.png" />
             </div>
-            <div class="post_block-item">Francesco Renzini <br> University of Oxford, United Kingdom</div>
+            <div class="mdh-post_block-item">Francesco Renzini <br> University of Oxford, United Kingdom</div>
         </div>
     </div>
-    <div class="post_block-item">
-        <div class="post_flex_center">
+    <div class="mdh-post_block-item">
+        <div class="mdh-post_flex_center">
             <div style="margin-right: 20px">
                 <img width="60px" src="https://abmschool.behavelab.org/images/Federico.png" />
             </div>
-            <div class="post_block-item">Flaminio Squazzoni <br> University of Milan, Italy, School Director</div>
+            <div class="mdh-post_block-item">Flaminio Squazzoni <br> University of Milan, Italy, School Director</div>
         </div>
     </div>
 </div>

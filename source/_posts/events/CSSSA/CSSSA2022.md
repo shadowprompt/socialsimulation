@@ -8,11 +8,11 @@ thumbnail_in_body: /img/csssa/csssa2022.png
 
 CSS 2022 Santa Fe
 
-### **<div class="post_flex_center_center">The Computational Social Science Society of the Americas</div>**
+### **<div class="mdh-post_flex_center_center">The Computational Social Science Society of the Americas</div>**
 
-# **<div class="post_flex_center_center">CSS 2022</div>**
-# **<div class="post_flex_center_center">Annual Conference</div>**
-#### **<div class="post_flex_center_center">Oct 27 – 30, 2022</div>**
+# **<div class="mdh-post_flex_center_center">CSS 2022</div>**
+# **<div class="mdh-post_flex_center_center">Annual Conference</div>**
+#### **<div class="mdh-post_flex_center_center">Oct 27 – 30, 2022</div>**
 **Call for Papers (With link to submit a Paper)**
 **Conference Registration**
 **Hotel Info**
@@ -22,12 +22,12 @@ CSS 2022 Santa Fe
 
 You are invited to participate in the Computational Social Science (CSS 2022) annual conference. The conference will be held in-person at The Drury Plaza Hotel in Santa Fe, New Mexico, October 27 – 30, 2022, near the historic central plaza in downtown Santa Fe.
 
-### <div class="post_flex_center_center">Keynote Speakers</div>
-### <div class="post_flex_center_center">Stephanie Forrest & Patrick Grim</div>
+### <div class="mdh-post_flex_center_center">Keynote Speakers</div>
+### <div class="mdh-post_flex_center_center">Stephanie Forrest & Patrick Grim</div>
 
-<div class="post_flex_center_center">
-<img class="post_block-item" src="http://computationalsocialscience.org/wp-content/uploads/2022/10/sf-2021-sfi-image-060_scaled.jpg" />
-<img class="post_block-item" src="http://computationalsocialscience.org/wp-content/uploads/2022/10/PGrim.jpg"/>
+<div class="mdh-post_flex_center_center">
+<img class="mdh-post_block-item" src="http://computationalsocialscience.org/wp-content/uploads/2022/10/sf-2021-sfi-image-060_scaled.jpg" />
+<img class="mdh-post_block-item" src="http://computationalsocialscience.org/wp-content/uploads/2022/10/PGrim.jpg"/>
 </div>
 
 

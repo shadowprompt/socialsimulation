@@ -5,27 +5,27 @@ categories:
 - [news]
 thumbnail_in_body: /img/news/ABM1.png
 ---
-## <div class="post_flex_center_center">Dehua Gao and his colleague identify the impact of artifacts-based exploration and exploitation on routines’ formation dynamics using ABM</div>
+## <div class="mdh-post_flex_center_center">Dehua Gao and his colleague identify the impact of artifacts-based exploration and exploitation on routines’ formation dynamics using ABM</div>
 
 Recently, Prof. Dehua Gao and his colleague publish a paper on JASSS. In this paper, they use an agent-based model to identify the impact of artifacts-based exploration and exploitation on routines’ formation dynamics.
 
-<div class="p_center">
-    <img class="post_block-item" style="max-width: 80%;margin-bottom: 16px;" src="/img/news/ABM1.png">
+<div class="mdh-post_textAlign_center">
+    <img class="mdh-post_block-item" style="max-width: 80%;margin-bottom: 16px;" src="/img/news/ABM1.png">
 </div>
 
 **Abstract**：Organizational routines are at the core in capturing the typical way of how organizations accomplish their tasks. This paper primarily summarizes the development of scholars’ understanding of the crucial role that artifacts and the materiality play during the course of routines. We then focus on the material artifacts-based exploration and exploitation carried out by multiple human actors, and create a link between individual situated actions at the micro-level and the collective outcome as patterned routines. This discloses the underlying logic between human actors’ exploration and exploitation of material artifacts on the one hand, and the ‘(re)framing-overflowing’ interaction loop amidst routine performances and artifacts as artifactual representations (D’Adderio, 2008; 2011) on the other. Subsequently, this study uses an agent-based approach to formalize routines formation dynamics from the ‘bottom-up’. Our simulation results highlighted the relationships between the three crucial aspects – which include the interdependences between situated-actions within and between organizational tasks, artifacts-based explorative and exploitative activities carried out by multiple human actors, and organizational structures or the power asymmetry characterizing interpersonal relationships within the routine system. The research work theoretically enriches people’s understanding of routines formation dynamics over time, and provides indications for managers in designing routine performances via the artifacts.
 
 **Keywords**: Organizational Routines, Routine Dynamics, Artifacts, Exploration and Exploitation, Agent-Based Modeling (ABM)
 
-<div class="p_center">
-    <img class="post_block-item" style="max-width: 80%;margin-bottom: 16px;" src="/img/news/ABM2.png">
+<div class="mdh-post_textAlign_center">
+    <img class="mdh-post_block-item" style="max-width: 80%;margin-bottom: 16px;" src="/img/news/ABM2.png">
 </div>
 
 Figure 1. Development trajectory of the role that artifacts play in routines theory
 (a) Relations between artifacts and the ostensive/performative (Source: Pentland & Feldman (2005)); (b) Artifacts from the periphery to the center of routines (Source: D’Adderio (2011)); (c) Artifacts as a nexus between individual situated actions and the collective outcome as patterned routines (Source: Gao (2019)).
 
-<div class="p_center">
-    <img class="post_block-item" style="max-width: 80%;margin-bottom: 16px;" src="/img/news/ABM3.png">
+<div class="mdh-post_textAlign_center">
+    <img class="mdh-post_block-item" style="max-width: 80%;margin-bottom: 16px;" src="/img/news/ABM3.png">
 </div>
 
 Figure 2. Artifacts-based exploration and exploitation beneath the ‘(re)framing-overflowing’ interaction between routine performances and artifacts as artifactual representations.

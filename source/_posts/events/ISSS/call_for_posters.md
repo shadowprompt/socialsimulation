@@ -5,7 +5,7 @@ categories:
 - [events, ISSS, 2023]
 thumbnail_in_body: /img/isss/isss_2023.jpg
 ---
-<h3 class="post_flex_center_center _excerpt_ignore">Call for Posters of ASSA Annual</h3>
+<h3 class="mdh-post_flex_center_center _excerpt_ignore">Call for Posters of ASSA Annual</h3>
 
 ## Conference
 ### ISSS 2023

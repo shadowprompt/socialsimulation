@@ -5,7 +5,7 @@ categories:
 - [news]
 thumbnail_in_body: /img/news/O2O_markets_abo.png
 ---
-## <div class="post_flex_center_center">Zhou HE and his team proposed strategies for restaurants in O2O markets using an agent-based model</div>
+## <div class="mdh-post_flex_center_center">Zhou HE and his team proposed strategies for restaurants in O2O markets using an agent-based model</div>
 
 
 Prof. Zhou HE and his team published a paper in the International Journal of Production Economics. This paper uses an agent-based model to put forward the optimist decisions of independent restaurants in O2O food ordering and delivery markets.
@@ -37,8 +37,8 @@ With the basis of explicitly defining each agent's attributes and behaviors inte
       In the stage of making new decisions, Restaurants make further decisions on food quality and location.
       Customers send feedback in the information update and model termination stage, and the platform updates information. If it meets termination criteria, the model terminates. If not, it goes back to the location of customers placing orders.
 
-<div class="p_center">
-    <img class="post_block-item" style="max-width: 80%;margin-bottom: 16px;" src="/img/news/O2O_markets_abo.png">
+<div class="mdh-post_textAlign_center">
+    <img class="mdh-post_block-item" style="max-width: 80%;margin-bottom: 16px;" src="/img/news/O2O_markets_abo.png">
 </div>
 
 <div style="font-weight: bold">4. Conclusion</div>

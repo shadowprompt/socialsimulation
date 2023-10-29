@@ -5,11 +5,11 @@ categories:
 - [events, tsinghua, 2021]
 thumbnail_in_body: https://www.dps.tsinghua.edu.cn/__local/F/25/BE/74AC40BDAF20373BA44A377E78A_EC200EA6_2A9145.png
 ---
-## <div class="post_flex_center_center">第三届全国计算社会科学高端论坛成功举办</div>
+## <div class="mdh-post_flex_center_center">第三届全国计算社会科学高端论坛成功举办</div>
 
 2021年1月13日，由中国计算社会科学联盟、清华大学计算社会科学平台、清华大学社会科学学院、北京大学中国社会科学调查中心、北京大学计算社会科学研究中心联合主办的“第三届全国计算社会科学高端论坛”于云端拉开帷幕。此次论坛以“新时代与新范式：新兴交叉学科的研究议程与发展路径”为主题，邀请了来自清华大学、北京大学、普林斯顿大学、斯坦福大学、哥廷根大学、中国社会科学院大学、复旦大学、南京大学、山东大学等30多所高校的50余位专家学者，围绕社会科学与计算科学的交叉融合、大数据与人工智能在社会科学各领域的前沿应用、计算社会科学的研究范式和学科发展等议题发表演讲并进行研讨。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="https://www.dps.tsinghua.edu.cn/__local/F/25/BE/74AC40BDAF20373BA44A377E78A_EC200EA6_2A9145.png"/>
 </div>
 

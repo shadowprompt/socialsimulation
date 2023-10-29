@@ -8,13 +8,13 @@ thumbnail_in_body: /img/csssa/csssa2019.png
 
 CSS 2019 Santa Fe
 
-### **<div class="post_flex_center_center">The Computational Social Science Society of the Americas</div>**
+### **<div class="mdh-post_flex_center_center">The Computational Social Science Society of the Americas</div>**
 
-# **<div class="post_flex_center_center">CSS 2019</div>**
-# **<div class="post_flex_center_center">10th Anniversary International Conference</div>**
-#### **<div class="post_flex_center_center">Santa Fe, NM</div>**
-#### **<div class="post_flex_center_center">Oct 24 – 27, 2019</div>**
-## **<div class="post_flex_center_center">The 2019 Conference</div>**
+# **<div class="mdh-post_flex_center_center">CSS 2019</div>**
+# **<div class="mdh-post_flex_center_center">10th Anniversary International Conference</div>**
+#### **<div class="mdh-post_flex_center_center">Santa Fe, NM</div>**
+#### **<div class="mdh-post_flex_center_center">Oct 24 – 27, 2019</div>**
+## **<div class="mdh-post_flex_center_center">The 2019 Conference</div>**
 
 **Call for Papers (Submit a Paper)**
 **Conference Registration**
@@ -24,11 +24,11 @@ CSS 2019 Santa Fe
 
 You are invited to participate in the **Computational Social Science (CSS 2019) annual conference**. The conference will be held at The Drury Plaza Hotel in Santa Fe, New Mexico, October 24 – 27, 2019, near the historic central plaza in downtown Santa Fe.
 
-### <div class="post_flex_center_center">Invited Speakers</div>
-### <div class="post_flex_center_center">Stephanie Forrest & Patrick Grim</div>
+### <div class="mdh-post_flex_center_center">Invited Speakers</div>
+### <div class="mdh-post_flex_center_center">Stephanie Forrest & Patrick Grim</div>
 
-<div class="post_flex_center_center">
-    <div class="post_block-item" >
+<div class="mdh-post_flex_center_center">
+    <div class="mdh-post_block-item" >
         <img style="height: 180px" src="https://computationalsocialscience.org/wp-content/uploads/2019/04/AndreaPic.png" />
         <div style="font-size: 13px">
             <div>Andrea Jones-Rooy</div>
@@ -37,8 +37,8 @@ You are invited to participate in the **Computational Social Science (CSS 2019) 
             <div>Co-founder, Project DIB</div>
         </div>
     </div>
-    <div class="post_block-item" >
-        <img class="post_block-item" src="https://computationalsocialscience.org/wp-content/uploads/2019/04/NeilPic2.jpg"/>
+    <div class="mdh-post_block-item" >
+        <img class="mdh-post_block-item" src="https://computationalsocialscience.org/wp-content/uploads/2019/04/NeilPic2.jpg"/>
         <div style="font-size: 13px">
             <div>Neil Johnson</div>
             <div>Professor of Physics</div>

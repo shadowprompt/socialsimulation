@@ -5,12 +5,12 @@ categories:
 - [news]
 thumbnail_in_body: /img/news/land_transfer.png
 ---
-## <div class="post_flex_center_center">Hang Xiong and his team reveal the mechanisms underlying farmers' land transfer</div>
+## <div class="mdh-post_flex_center_center">Hang Xiong and his team reveal the mechanisms underlying farmers' land transfer</div>
 
 Recently, Prof. Hang Xiong and his team publish a paper on Management World (one of the top Chinese journal in management and economic science). In this paper, they use an agent-based model to reveal the mechanisms underlying farmers' decision-making in spontaneous farmland transfer and bottom-up farmland concentration at the village level.
 
-<div class="p_center">
-    <img class="post_block-item" style="max-width: 80%;margin-bottom: 16px;" src="/img/news/land_transfer.png">
+<div class="mdh-post_textAlign_center">
+    <img class="mdh-post_block-item" style="max-width: 80%;margin-bottom: 16px;" src="/img/news/land_transfer.png">
 </div>
 
 **Abstract**: Profound understanding of the mechanisms underlying farmers' land transfer decision-making is of great importance for improving farmland transfer policies. However, the existing studies focus on the results of land transfer and lack in-depth investigation of the decision-making process and behavioral mechanisms. This study uses a simulation model to simulate the behavior rules and dynamic processes of farmers' land transfer under the background of urbanization and rural aging. Being calibrated with real data, the model is validated by matching its outputs with farmland transfer data in sample villages. The preliminary application of the model in several scenarios provides intuitive reference for farmland transfer policy-making. This study reveals the mechanisms underlying farmers' decision-making in spontaneous farmland transfer and bottom-up farmland concentration at the village level. It provides a benchmark model for examining the mechanisms and processes of farmland transfer and concentration in more complex conditions. The model can be a powerful tool for the pre-evaluation of farmland transfer policies.

@@ -4,7 +4,7 @@ title: "Review of food security simulation models in Nature Food"
 categories:
 - [news]
 ---
-## <div class="post_flex_center_center">Review of food security simulation models in Nature Food</div>
+## <div class="mdh-post_flex_center_center">Review of food security simulation models in Nature Food</div>
 
 PhD candidate Aleid Teeuwen, Assistant Professor Dr. Yue Dou, and colleagues at NRS department, faculty ITC, University of Twente in the Netherlands has a review paper “[A systematic review of the impact of food security governance measures as simulated in modelling studies](https://www.nature.com/articles/s43016-022-00571-2)” in Nature Food.
 

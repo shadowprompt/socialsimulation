@@ -5,87 +5,87 @@ categories:
 - [events, tsinghua, 2022]
 thumbnail_in_body: /img/tsinghua/2022/cee28d93-616c-4e15-9abf-3173dfb3a245.png
 ---
-## <div class="post_flex_center_center">第四届全国计算社会科学高端论坛成功召开</div>
+## <div class="mdh-post_flex_center_center">第四届全国计算社会科学高端论坛成功召开</div>
 
 2022年12月10日，第四届全国计算社会科学高端论坛成功召开。本次高端论坛以“促进社会科学与计算科学的融合发展：新方法、新议程”为主题，由中国计算社会科学联盟主办，浙江大学公共管理学院、浙江大学社会治理研究院、浙江工商大学社会科学研究院和浙江大学计算社会科学中心联合承办。60余位来自浙江大学、清华大学、北京大学等国内高校的社会科学和计算科学研究学者，以及浙江省大数据局实务专家参与了论坛讨论。本次论坛共吸引了1000余名观众线上观看直播内容。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/cee28d93-616c-4e15-9abf-3173dfb3a245.png"/>
 </div>
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/1decaf83-7e33-4438-9c8e-da92e6de3179.jpg"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （会议图）
 </div>
 
 会议开幕式由浙江大学公共管理学院党委书记杨国富主持。在开幕式上，中国计算社会科学联盟理事长、北京大学政府管理学院李强教授；浙江工商大学党委书记、校长郁建兴教授；中国计算社会科学联盟副理事长、清华大学社会科学学院党委书记刘涛雄教授出席开幕式并先后致辞。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/b0b6a62e-e914-4f2b-a0ee-7cf5de6316b0.png"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （杨国富书记主持开幕式）
 </div>
 
-### <div class="post_flex_center_center">致辞</div>
+### <div class="mdh-post_flex_center_center">致辞</div>
 
 **开幕式上，李强教授代表中国计算社会科学联盟致辞，感谢浙江大学和浙江工商大学等承办单位对计算社会科学的关注，肯定相关单位为举办会议做出的努力。** 他指出，计算社会科学的兴起，既是数字时代社会科学创新发展的必然趋势，更是社会科学与数据科学、计算科学交叉融合的产物。我国应加快计算社会科学交叉学科建设，通过构建全国共享的数字科研基础设施，建设文理交叉的重点实验室，加快培养复合型数字人才和系统育人机制，形成计算社会科学的学术、话语和学科体系。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/6aef1b47-28ff-4d11-b5b9-ba59d014e212.png"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （李强教授致辞）
 </div>
 
 郁建兴教授代表浙江大学、浙江工商大学对本次论坛的召开表示热烈的祝贺。他指出，计算社会科学高端论坛举行到第四届表明对计算社会科学的认知、实践、探索已经进入到新的阶段。我国可以通过计算科学和社会科学的融合来更好地研究中国问题，乘势而上，一方面摆脱中国哲学社会科学的依附性、实现自主性，一方面实现社会科学的范式革命，这两方面都具有重大的全球意义。郁教授强调，本次论坛的承办方在计算社会科学的学科建设方面都具有强烈的自觉，浙江大学较早地建立了计算社会科学研究中心，浙江工商大学同样强调数字技术的发展，通过发展人工智能学科、建设中外合作人工智能学院、启动“数字+学科”行动计划等方式实现“超常规”的发展，并与中国人民大学实现战略合作。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/45bf0054-62c0-4a21-bf3b-3d33cc5dfb45.png"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （郁建兴教授致辞）
 </div>
 
 刘涛雄教授向承办单位为本次会议顺利举行所付出的努力致以诚挚的感谢。他指出，现今计算社会科学面临的发展形势比联盟成立的时候还要更好，原因在于全国上下对交叉学科建设的重视。同时，人工智能、数据等新兴经济形态要素的发展也在加快。这些新进展对于计算社会科学的研究和发展既是挑战，也提供了机遇，相信在学者的共同努力下会取得更好的进展。清华大学作为联盟的秘书长单位，与各兄弟高校将一起大力推动计算社会科学的发展。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="http://mari.hzau.edu.cn/__local/9/48/16/A96665D12AA5A3C7C459359A39F_55779063_54688.png"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     北京师范大学韩战钢教授做主题分享
 </div>
 
 北京师范大学的韩战钢教授以《Carbon pricing mechanism analysis by ABM model systems mapping》探讨了新能源转型中ABM的应用与思考。韩教授认为在快速转型的时代，电力行业的结构性变化以及所涉及的行为者和受影响的利益相关者的高度分化和异质性需要新的研究视角，即智能体模拟与系统框图相结合。随后，考虑到碳定价机制的异质性、不确定性、相互作用与反馈，韩教授介绍了系统框图（systems mapping）以直观和定性的方式探索反馈，智能体模拟（Agent-based modeling）来定量探索异质性和动态性。将强化学习、拍卖算法与ABM进行结合，搭建最小成本优化模型。通过模拟各种不同能源的生产情况与碳排放的结果，从而计算能源生产过程中的碳税。最后，韩教授认为系统框图与ABM结合的新思维为分析能量转换提供了新视角，需要跨学科合作。系统框图分析表明，除了“强化效应”外，碳排放权交易体系(ETS)政策中可能存在“平衡效应”。碳税可能会为结构性变化提供更多激励，但也存在一定的不确定性。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/bd57a52d-540c-4563-a90b-ae6ed934c77f.png"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （刘涛雄教授致辞）
 </div>
 
 开幕式后，本次高端论坛紧扣主题，组织了主旨演讲、平行分论坛、圆桌论坛等多项议程。
 
-### <div class="post_flex_center_center">主旨演讲</div>
+### <div class="mdh-post_flex_center_center">主旨演讲</div>
 
 第四届全国计算社会科学高端论坛主旨演讲，由清华大学计算社会科学与国家治理实验室副主任、中国计算社会科学联盟秘书长孟天广主持。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/c7fd1394-c6fb-4a79-84d7-ec3317f39df0.png"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （孟天广副主任主持）
 </div>
 
 郁建兴、张小劲、王腾蛟、陈云松、吴飞、罗家德、周葆华、柯荣住、魏贵义等9位嘉宾进行主旨演讲。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/c7fd1394-c6fb-4a79-84d7-ec3317f39df0.png"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （主旨演讲合照图）
 </div>
 
@@ -108,7 +108,7 @@ thumbnail_in_body: /img/tsinghua/2022/cee28d93-616c-4e15-9abf-3173dfb3a245.png
 **浙江工商大学萨塞克斯人工智能学院魏贵义教授分享的题目是“计算思维与计算社会科学”。** 魏教授依据计算的发展历程，提出了对计算社会科学如何提升应用大数据和计算能力的思考。就计算思维对社会科学的影响而言，魏教授认为，应赋予计算机系统来观察、解释、理解和预测人的行为的能力，综合运用心理学、认知科学、行为科学来构建计算模型，开发具有推理和推断能力的算法。
 
 
-### <div class="post_flex_center_center">平行分论坛</div>
+### <div class="mdh-post_flex_center_center">平行分论坛</div>
 本次平行分论坛分为计算政治学、数字治理、机器学习与数据挖掘前沿方法、计算传播学、智能革命及其治理、社会计算与仿真模拟的前沿探索等6个主题，邀请了30位论文作者进行了论文汇报。
 
 
@@ -116,10 +116,10 @@ thumbnail_in_body: /img/tsinghua/2022/cee28d93-616c-4e15-9abf-3173dfb3a245.png
 **平行分论坛1以“计算与政治学相结合”为主题**，曾瑜、胡悦、任皓、严宇与王益君等五位汇报人进行论文汇报，由山东大学政治学与公共管理学院孙宗锋老师主持，浙江大学公共管理学院邵立老师进行点评。
 
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/ea6e652d-2518-417b-ab8c-1f9db7a10a68.png"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （平行分论坛1合照）
 </div>
 
@@ -137,10 +137,10 @@ thumbnail_in_body: /img/tsinghua/2022/cee28d93-616c-4e15-9abf-3173dfb3a245.png
 
 **平行分论坛2围绕“数字治理”的主题展开**，孙轩、顾天安、范晓光、郑跃平与吴英发等五位汇报人进行论文汇报，由浙江大学公共管理学院黄萃老师主持，清华大学公共管理学院张楠老师作为评论人进行点评。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/b6f6aae7-c157-4cbc-9f66-53d6c5919b44.jpg"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （平行分论坛2合照）
 </div>
 
@@ -158,10 +158,10 @@ thumbnail_in_body: /img/tsinghua/2022/cee28d93-616c-4e15-9abf-3173dfb3a245.png
 
 **平行分论坛3主题为“机器学习与数据挖掘前沿方法”**，李月莹、周振坤、刘书成等三位汇报人进行论文汇报，由电子科技大学公共管理学院教授贾开担任主持人，浙江大学公共管理学院计算社会科学研究中心主任吴超和清华大学政治学系方鹿敏担任评论人。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/dd1a87a6-c222-4f02-aede-d8085e499de7.png"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （平行分论坛3合照）
 </div>
 
@@ -175,10 +175,10 @@ thumbnail_in_body: /img/tsinghua/2022/cee28d93-616c-4e15-9abf-3173dfb3a245.png
 
 **平行论坛4主题为“计算传播学”**，孟啸、孙琪、周斌、方鹿敏、鲁肖麟等五位汇报人进行论文汇报，由浙江工商大学公共管理学院院长汪锦军担任主持人，清华大学社会科学学院政治学系副教授胡悦担任评论人。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/bdbad133-5e0c-4f52-ac7f-18bb1ce87f69.png"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （平行分论坛4合照）
 </div>
 
@@ -196,10 +196,10 @@ thumbnail_in_body: /img/tsinghua/2022/cee28d93-616c-4e15-9abf-3173dfb3a245.png
 
 **平行分论坛5围绕“智能革命及其治理”的主题展开**，贾开、阙天舒、俞晗之、张智敏与臧雷振等五位汇报人进行论文汇报，由中国人民大学公共管理学院马亮老师主持，复旦大学国际关系与公共事务学院胡业飞老师、浙江大学公共管理学院黄飚老师作为联合评论人进行了点评。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/5b702a1e-4486-47bb-8820-e61fa1d708a4.png"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （平行分论坛5合照）
 </div>
 
@@ -217,10 +217,10 @@ thumbnail_in_body: /img/tsinghua/2022/cee28d93-616c-4e15-9abf-3173dfb3a245.png
 
 **平行分论坛6围绕“社会计算与仿真模拟的前沿探索”的主题展开，傅曼青、左任衔、张梦婷与胡智文等四位汇报人进行了论文汇报**，平行论坛由浙江大学公共管理学院蒋卓人研究院和清华大学政治学系严宇博士后作为评论人进行了点评。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/1bd76d95-e0c0-4671-b325-c836097419b0.png"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （平行分论坛6合照）
 </div>
 
@@ -232,13 +232,13 @@ thumbnail_in_body: /img/tsinghua/2022/cee28d93-616c-4e15-9abf-3173dfb3a245.png
 
 **浙江工商大学计算机与信息工程学院胡智文教授带来了“Heuristic Approach to Curate Disease Taxonomy beyond Nosology-Based Standards”报告**，研究结果表明在没有纠正机制的情况下，时代错误名称的分类学演变可能会导致社会文化影响。
 
-### <div class="post_flex_center_center">圆桌论坛</div>
+### <div class="mdh-post_flex_center_center">圆桌论坛</div>
 圆桌论坛由浙江大学公共管理学院副院长高翔教授主持，9位社会科学专家和实务专家围绕“社会科学数据资源建设与开放”进行了深入讨论。高翔教授简要介绍第四届的中国计算社会科学高端论坛的主题，强调了建设社会科学数据资源对构筑中国自主的哲学社会科学体系的重要意义，对圆桌会议出席的各位嘉宾表示诚挚欢迎。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/6b64c370-19f8-478a-922c-f7f774358a74.jpg"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （圆桌论坛合照）
 </div>
 
@@ -261,13 +261,13 @@ thumbnail_in_body: /img/tsinghua/2022/cee28d93-616c-4e15-9abf-3173dfb3a245.png
 **浙江省大数据发展中心金加和主任基于浙江省公共数据平台建设经验，讨论了公共数据赋能计算社会科学发展，推进应用研究融合创新的路径。** 金主任提出，国家层面数据已经成为基础战略性资源和重要的生产要素，浙江省今年3月围绕公共数据发布地方性法规《浙江省公共数据条例》。在利用公共数据开展研究方面，浙江省大数据管理局通过运用创新大赛补助奖励合作开发等方式，鼓励利用公共数据安全发展科学研究，产品开发、数据加工等活动。同时，浙江省数据开放应用创新大赛已持续三年，吸引了中国移动等320家国企、浙江大学、浙江理工大学等多所高校参与。
 
 
-### <div class="post_flex_center_center">闭幕式致辞</div>
+### <div class="mdh-post_flex_center_center">闭幕式致辞</div>
 闭幕式由浙江工商大学社会科学研究院院长高燕进行主持，浙江大学高翔教授进行总结并宣布优秀论文。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="/img/tsinghua/2022/9b24f8de-d7f9-4327-b2da-8be203f56220.png"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     （高翔教授总结）
 </div>
 

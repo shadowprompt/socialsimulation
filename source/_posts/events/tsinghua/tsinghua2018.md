@@ -5,16 +5,16 @@ categories:
 - [events, tsinghua, 2018]
 thumbnail_in_body: https://www.tsinghua.edu.cn/_mediafile/qh2021b/publish/thunews/9659/20180903161943396830918/1536126880506.jpg
 ---
-## <div class="post_flex_center_center">第一届全国计算社会科学高端论坛在清华大学举行</div>
+## <div class="mdh-post_flex_center_center">第一届全国计算社会科学高端论坛在清华大学举行</div>
 
 清华新闻网9月5日电 8月28日至29日，由清华大学社科学院、清华大学计算社会科学平台、清华大学数据科学研究院联合举办的“第一届全国计算社会科学高端论坛”在清华大学召开。来自国内外20余所高校和科研机构的60余位专家学者和实务工作者报告了论文成果和研究构想，另有来自全国各地的130余位师生参与了本次论坛的多场学术活动。
 
 与会专家学者覆盖经济学、社会学、政治学、心理学、计算科学、传播学和公共管理等多个学科。他们围绕计算社会科学的研究范畴、方法创新和学科建设等议题展开了广泛而充分的交流。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="https://www.tsinghua.edu.cn/_mediafile/qh2021b/publish/thunews/9659/20180903161943396830918/1536126880506.jpg"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     论坛现场
 </div>
 
@@ -25,10 +25,10 @@ thumbnail_in_body: https://www.tsinghua.edu.cn/_mediafile/qh2021b/publish/thunew
 
 论坛期间，共围绕计算社会科学发展的共性问题和主要学科领域，组织了两场圆桌会议和六场专题分论坛。邀请计算社会科学领域的学界和业界代表组织了两场主题分别为“计算社会科学的方法论和学科建设”“计算社会科学的创新应用”的圆桌会议。通过广泛征集论文和推荐专家学者，论坛组织了覆盖六个社会科学学科的专题分论坛，分别为“经济大数据”“社会计算与计算社会”“科技与社会大数据”“社会网络与社交媒体”“政治与国际关系大数据”和“心理大数据”。来自不同学科的专家学者聚焦于特定学科领域和研究议题展开了深入探讨，发表了30多篇高水平学术论文，充分反映了我国计算社会科学研究的前沿水平。
 
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     <img style="max-width: 60%" src="https://www.tsinghua.edu.cn/_mediafile/qh2021b/publish/thunews/9659/20180903161943396830918/1536126877088.jpg"/>
 </div>
-<div class="post_flex_center_center">
+<div class="mdh-post_flex_center_center">
     与会嘉宾合影
 </div>
 

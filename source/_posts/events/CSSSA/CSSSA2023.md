@@ -8,11 +8,11 @@ thumbnail_in_body: /img/csssa/csssa2023.png
 
 CSS 2023 Santa Fe
 
-### **<div class="post_flex_center_center">The Computational Social Science Society of the Americas</div>**
+### **<div class="mdh-post_flex_center_center">The Computational Social Science Society of the Americas</div>**
 
-# **<div class="post_flex_center_center">CSS 2023</div>**
-# **<div class="post_flex_center_center">Annual Conference</div>**
-#### **<div class="post_flex_center_center">Nov 2 – 5, 2023</div>**
+# **<div class="mdh-post_flex_center_center">CSS 2023</div>**
+# **<div class="mdh-post_flex_center_center">Annual Conference</div>**
+#### **<div class="mdh-post_flex_center_center">Nov 2 – 5, 2023</div>**
 [Call for Papers (PDF)](http://computationalsocialscience.org/wp-content/uploads/2023/03/CSS2023-CFP-1.pdf)
 **Submission Link (Coming Soon)**
 **Conference Registration**
