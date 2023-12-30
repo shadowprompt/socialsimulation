@@ -1,0 +1,117 @@
+
+<div class="main-container">
+    <main>
+        <!-- # Title # -->
+        <% if (theme._showCategoryTitle) { %>
+            <h2 class="page-title"><%= __("category") + " : " + page.category %></h2>
+        <%}%>
+        <!-- # Post List # -->
+        <%
+        let list = (theme['_' + page.category + 'List'] || '').split(',');
+        list.forEach(function (listItem) {
+            let info = listItem.split('@')
+            let key = info[0];
+            let title = info[1];
+            let categoryParent = page.category + '/' + key
+        %>
+            <!-- # Post List Block # -->
+            <div class="post-stream-container">
+                <%
+                    let yearList = [];
+                    let postsList = page.posts.sort('date', -1).filter(function (post){
+                        let categoryKey = ''
+                        let categoryYear = ''
+                        post.categories.each(function (it, index) {
+                            if (key === it.name) {
+                                categoryKey = index
+                            } else if(/^\d{4}$/.test(it.name) && !post._private){
+                                categoryYear = it.name
+                            }
+                        })
+                        if (categoryKey && categoryYear && !yearList.includes(categoryYear)) {
+                            yearList.push(categoryYear)
+                        }
+                        return !!categoryKey;
+                    })
+                    let keyHasPostMap = {};
+                    let _superCategoryConf = theme['_superCategory'];
+
+                    postsList = postsList.filter(function (post){
+                        if(new RegExp(_superCategoryConf).test(categoryParent)) {
+                          return true;
+                        }
+
+                        if (keyHasPostMap[categoryParent]) {
+                          return false
+                        } else {
+                          keyHasPostMap[categoryParent] = true;
+                          return true;
+                        }
+                    })
+                %>
+                <% if (postsList.length > 0) {%>
+                    <div class="post-stream_title">
+                        <%- title%>
+                    </div>
+                    <%
+                    let introConf = theme['_' + key + '_intro'];
+                    if (introConf) { %>
+                        <div class="post-stream_intro">
+                            <%- introConf%>
+                        </div>
+                    <% } %>
+                <%}%>
+
+                <% if (yearList.length > 0) { %>
+                    <div class="year_wrapper">
+                        <%
+                        yearList.forEach(function (year) {%>
+                            <a href="<%- ((config.category_dir ? ('/' + config.category_dir) : '') + '/' + categoryParent + '/' + year + '/')%>" class="category_year-a <%- year === page.category ? 'active' : ''%>"><%- year%></a>
+                        <% }) %>
+                        %>
+                    </div>
+                <% } %>
+
+                <%
+                let gridConf = theme['_grid_' + page.category + '/' + key];
+                if (gridConf) {
+                    let _categoryByGridsMaxIndex = gridConf - 0;
+                    let gridBannerConf = theme['_grid_banner_' + page.category + '/' + key] || 0;
+                        postsList.each(function(post, index){
+                        if (index <= _categoryByGridsMaxIndex) {
+                            let compareIndex = index - gridBannerConf;
+
+                            if (index === 0) { %>
+                            <div class="grid-item_banner_box">
+                                <%- partial('_partial/post-entry-banner', { post: post, index: true, pin: false }) %>
+                            </div>
+                            <%} else {
+                                if(compareIndex%2 === 0) { %>
+                                <div class="grid-item_column_box">
+                                <%}%>
+                                    <div class="grid-item grid-item-column <%- compareIndex%2 === 0 ? '' : 'odd'%>">
+                                        <%- partial('_partial/post-entry', { post: post, index: true, pin: false }) %>
+                                    </div>
+                                <% if (compareIndex%2 !== 0 || index === _categoryByGridsMaxIndex) { %>
+                                </div>
+                                <%}
+                            }
+
+                        } else { %>
+                            <div class="grid-item">
+                                <%- partial('_partial/post-entry', { post: post, index: true, pin: false }) %>
+                            </div>
+                        <%}
+                    })
+                } else { %>
+                    <%postsList.each(function(post){%>
+                        <div class="grid-item">
+                            <%- partial('_partial/post-entry', { post: post, index: true, pin: false }) %>
+                        </div>
+                    <% }) %>
+                <%}%>
+            </div>
+        <% }) %>
+    </main>
+    <%- partial('_partial/pagination') %>
+</div>

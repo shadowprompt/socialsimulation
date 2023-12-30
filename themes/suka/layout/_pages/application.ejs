@@ -1,0 +1,365 @@
+<section id="contact-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 col-md-10 offset-lg-1">
+                <div class="contact-box text-center">
+                    <div class="form-title">Information</div>
+                    <form id="ajax-contact">
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">
+                                    <span class="primaryItem">
+                                        Family name
+                                    </span>
+                                </span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="familyName">
+                            </div>
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">
+                                    <span class="primaryItem">
+                                        Given name
+                                    </span>
+                                </span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="givenName">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+<!--                            <div class="col-lg-2 col-md-2">-->
+<!--                                <span class="contact-label fieldRequired">-->
+<!--                                    <span>-->
+<!--                                        姓名(中文)-->
+<!--                                    </span>-->
+<!--                                </span>-->
+<!--                            </div>-->
+<!--                            <div class="col-lg-4 col-md-4">-->
+<!--                                <input type="text" class="form-control" id="chineseName">-->
+<!--                            </div>-->
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">
+                                    <span class="primaryItem">
+                                        Gender
+                                    </span>
+<!--                                    <span>-->
+<!--                                        性别-->
+<!--                                    </span>-->
+                                </span>
+                            </div>
+                            <div class="col-lg-4 col-md-4" style="text-align: left">
+                                <select class="selectPicker" id="sex" value="1">
+                                    <option value="1">Male</option>
+                                    <option value="2">Female</option>
+                                    <option value="3">Prefer not to say</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">
+                                    <span class="primaryItem">
+                                        Highest academic degree
+                                    </span>
+<!--                                    <span>-->
+<!--                                        最高学位-->
+<!--                                    </span>-->
+                                </span>
+                            </div>
+                            <div class="col-lg-4 col-md-4" style="text-align: left">
+                                <select class="selectPicker" id="degree" value="1">
+                                    <option value="1">Bachelor's Degree</option>
+                                    <option value="2">Master's Degree</option>
+                                    <option value="3">Ph.D</option>
+                                    <option value="4">Other</option>
+                                </select>
+                            </div>
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">
+                                    <span class="primaryItem">
+                                        Date of birth
+                                    </span>
+<!--                                    <span>-->
+<!--                                        出生年月-->
+<!--                                    </span>-->
+                                </span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="birthday">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">
+                                    <span class="primaryItem">
+                                        Email
+                                    </span>
+<!--                                    <span>-->
+<!--                                        邮箱-->
+<!--                                    </span>-->
+                                </span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="email" class="form-control" id="email">
+                            </div>
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">
+                                    <span class="primaryItem">
+                                        Phone number
+                                    </span>
+<!--                                    <span>-->
+<!--                                        手机号-->
+<!--                                    </span>-->
+                                </span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="phone">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">
+                                    <span class="primaryItem">
+                                        Affiliation
+                                    </span>
+<!--                                <span>-->
+<!--                                    工作单位-->
+<!--                                </span>-->
+                                </span>
+                            </div>
+                            <div class="col-lg-10 col-md-10">
+                                <input type="text" class="form-control" id="work" placeholder="">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">
+                                    <span class="primaryItem">
+                                        Job title
+                                    </span>
+<!--                                    <span>-->
+<!--                                        职称-->
+<!--                                    </span>-->
+                                </span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="title">
+                            </div>
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">
+                                    <span class="primaryItem">
+                                        Position
+                                    </span>
+<!--                                    <span>-->
+<!--                                        职务-->
+<!--                                    </span>-->
+                                </span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="duty">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">
+                                    <span class="primaryItem">
+                                        Educational experience
+                                    </span>
+<!--                                    <span>-->
+<!--                                        教育经历-->
+<!--                                    </span>-->
+                                </span>
+                            </div>
+                            <div class="col-lg-10 col-md-10">
+                                <textarea class="form-control" id="educationalExperience" rows="5"></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">
+                                    <span class="primaryItem">
+                                        Work experience
+                                    </span>
+<!--                                    <span>-->
+<!--                                        工作经历-->
+<!--                                    </span>-->
+                                </span>
+                            </div>
+                            <div class="col-lg-10 col-md-10">
+                                <textarea class="form-control" id="workExperience" rows="5"></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">
+                                    <span class="primaryItem">
+                                        Main research fields and representative achievements
+                                    </span>
+<!--                                    <span>-->
+<!--                                        主要研究领域与代表性成果-->
+<!--                                    </span>-->
+                                </span>
+                            </div>
+                            <div class="col-lg-10 col-md-10">
+                                <textarea class="form-control" id="achievement" rows="5"></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">
+                                    <span class="primaryItem">
+                                        Membership dues
+                                    </span>
+                                </span>
+                            </div>
+                            <div class="col-lg-4 col-md-4" style="text-align: left">
+                                <select class="selectPicker" id="membership" value="1">
+                                    <option value="1">Member (normal dues)</option>
+                                    <option value="2">Member (reduced dues)</option>
+                                    <option value="3">Honorary Member</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">
+                                    <span class="primaryItem">
+
+                                    </span>
+                                </span>
+                            </div>
+                            <div class="col-lg-10 col-md-10 selectDesc membershipDesc">
+                                <div>
+                                    <div>For regular (non-student) participants, with the right to vote and to stand for election.</div>
+                                    <p>Dues: $125 USD for 2 years</p>
+                                    <div style="color: #ff8200;margin-bottom: 4px;">Details needed for making the invoice (in English or Chinese)</div>
+                                    <div><input type="text" class="form-control" id="invoiceDetail"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <button type="submit" class="submitBtn" onsubmit="submitFn()">
+                            Submit Information and Pay Membership Dues
+                        </button>
+                        <div id="form-message">
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<script src="https://cdn.jsdelivr.net/npm/leancloud-storage@4.0.0/dist/av-min.js"></script>
+<script>
+    // (function (){
+        window.AV.init({
+            appId: 'n87e56Pd4vy8Mc5lBhD5zcI8-gzGzoHsz',
+            appKey: 'ewwupYEWGyfQU6FioTg6IhCQ',
+            serverURLs: "https://n87e56pd.lc-cn-n1-shared.com"
+        });
+
+        window.jQuery("#membership").change(function(){
+            const membershipDescMap = {
+                1: `<div>
+                        <div>For regular (non-student) participants, with the right to vote and to stand for election.</div>
+                        <p>Dues: $125 USD for 2 years</p>
+                        <div style="color: #ff8200;margin-bottom: 4px;">Details needed for making the invoice (in English or Chinese)</div>
+                        <div><input type="text" class="form-control" id="invoiceDetail"></div>
+                    <div>`,
+                2: `<div>
+                        <div>Only for student participants, with the right to vote and to stand for election. The email address must contain the university/college/institution domain to verify the student's identity.</div>
+                        <p>Dues: $25 USD for 2 years</p>
+                        <div style="color: #ff8200;margin-bottom: 4px;">Details needed for making the invoice (in English or Chinese)</div>
+                        <div><input type="text" class="form-control" id="invoiceDetail"></div>
+                    <div>`,
+                3: `<div>
+                        <div>For senior scholars not considering the right to vote and to stand for election.</div>
+                    <div>`,
+            }
+            const submitBtnMap = {
+                1: `Submit Information and Pay Membership Dues`,
+                2: `Submit Information and Pay Membership Dues`,
+                3: `Submit Registration Form`,
+            }
+            const value = window.jQuery("#membership").val();
+            const membershipDescText = membershipDescMap[value];
+            window.jQuery('.membershipDesc').html(membershipDescText);
+
+            const submitBtnText = submitBtnMap[value];
+            window.jQuery('.submitBtn').text(submitBtnText);
+        });
+
+        const formItem = document.querySelector('#ajax-contact');
+        formItem && formItem.addEventListener('submit', submitFn);
+
+        function submitFn(e) {
+            e.preventDefault();
+            const list = ['familyName', 'givenName', 'chineseName', 'sex', 'degree', 'birthday', 'email', 'phone', 'work', 'title', 'duty', 'educationalExperience', 'workExperience', 'achievement', 'membership', 'invoiceDetail'];
+            const params = list.reduce((acc, curr) => {
+                const valueDom = document.querySelector('#' + curr);
+                if (!valueDom) {
+                   return acc;
+                }
+                let value = valueDom && valueDom.value;
+                // for required check
+                const trimValue = (value || '').trim();
+                const fieldRequiredDom = valueDom.parentElement && valueDom.parentElement.previousElementSibling && valueDom.parentElement.previousElementSibling.querySelector('.fieldRequired');
+                if (fieldRequiredDom && !trimValue) {
+                    value = -1; // is required but empty
+                }
+                if ([void 0, null].includes(value)) {
+                    return acc;
+                }
+                return {
+                    ...acc,
+                    [curr]: value,
+                }
+            }, {});
+
+            const emptyList = Object.keys(params).filter(item => {
+                const value = params[item];
+                if (value !== -1) {
+                    return false;
+                } else if(['familyName', 'givenName', 'chineseName'].includes(item)){
+                    // English name is filled or chineseName is filled, OK!
+                    if ((params['familyName'] !== -1 && params['givenName'] !== -1)) {
+                        return false
+                    }
+                }
+                return true;
+            });
+            console.log('eee', params, emptyList);
+
+            if (emptyList.length > 0) {
+                echoMessage('Please fill out required field(s)', true);
+                return;
+            }
+
+            const Forms = window.AV.Object.extend("socialsimulationInvolvedMembers");
+            const formObject = new Forms();
+            formObject.save(params).then((result) => {
+                formItem.reset();
+                if (['1', '2'].includes(params.membership)) {
+                    location.href = '/pay';
+                    return;
+                }
+                echoMessage('We have received your submission and will review and reply.');
+            }).catch(err => {
+                echoMessage('Something error, please try later');
+                console.log('error', err);
+            })
+
+            function echoMessage(msg, isError) {
+                const messageItem = document.querySelector('#form-message');
+                if (messageItem) {
+                    messageItem.innerHTML = isError ? `<span style="color: #ff0000">${msg}</span>` : msg || '';
+                }
+                if (msg) {
+                    setTimeout(() => {
+                        echoMessage();
+                    }, 4000);
+                }
+            }
+        }
+    // })();
+</script>
