@@ -9,7 +9,7 @@ layout: homepage
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <div class="inner">
-                    <a href="/events/">
+                    <a href="/trainings/">
                         <figure><img src="/img/css/summer_school_2024.png"></figure>
                     </a>
                 </div>
