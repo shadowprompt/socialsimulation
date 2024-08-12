@@ -1,0 +1,7 @@
+<% if (is_category()) {
+    if (new RegExp(theme._categorySpecial || '').test(page.category)) { %>
+        <%- partial('_pages/categorySpecial.ejs') %>
+    <% } else {%>
+        <%- partial('_pages/category.ejs') %>
+    <% } %>
+<% } %>

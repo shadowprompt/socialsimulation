@@ -1,0 +1,92 @@
+<nav class="navbar-section text-center">
+        <div class="h_nav-section">
+                <div class="h_nav_header">
+                        <span class="goto_logo">
+                                <a href="/"><img class="h_logo goto_logo" alt="<%= config.title%>" src="/img/logo/logo202308.png?t=<%= config.buildTs%>" ></a>
+                        </span>
+                </div>
+        </div>
+        <div class="h_nav_tree_wrapper">
+        <div class="h_nav-section h_nav_tree">
+                <ul class="first">
+                        <li>
+                                <a href="/">
+                                        <div>
+                                                <div class="enName">Home</div>
+<!--                                                <div class="cnName">首页</div>-->
+                                        </div>
+                                </a>
+                        </li>
+                        <li>
+                                <a href="/ASSA/">
+                                        <div>
+                                                <div class="enName">ASSA</div>
+                                        </div>
+                                </a>
+                        </li>
+                        <li>
+                                <a href="<%= (config.category_dir ? ('/' + config.category_dir) : '')%>/news/">
+                                        <div>
+                                                <div class="enName">News</div>
+<!--                                                <div class="cnName">新闻动态</div>-->
+                                        </div>
+                                </a>
+                        </li>
+                        <li>
+                                <a href="<%= (config.category_dir ? ('/' + config.category_dir) : '')%>/events/">
+                                        <div>
+                                                <div class="enName">Events</div>
+<!--                                                <div class="cnName">学术活动</div>-->
+                                        </div>
+                                </a>
+                        </li>
+                        <li>
+                                <a href="/SIG/">
+                                        <div>
+                                                <div class="enName">Special Interest Groups</div>
+                                        </div>
+                                </a>
+                        </li>
+                        <li>
+                                <a href="<%= (config.category_dir ? ('/' + config.category_dir) : '')%>/trainings/">
+                                        <div>
+                                                <div class="enName">Trainings</div>
+<!--                                                <div class="cnName">方法培训</div>-->
+                                        </div>
+                                </a>
+                        </li>
+                        <li>
+                                <a href="/awards/">
+                                        <div>
+                                                <div class="enName">Awards</div>
+                                        </div>
+                                </a>
+                        </li>
+                        <li>
+                                <a href="/join/">
+                                        <div>
+                                                <div class="enName">Get Involved</div>
+<!--                                                <div class="cnName">加入我们</div>-->
+                                        </div>
+                                </a>
+                        </li>
+                </ul>
+        </div>
+        </div>
+</nav>
+<script>
+        function addActive() {
+                const childrenList = document.querySelectorAll('.h_nav_tree .first>li');
+                childrenList.forEach(item => item.classList.remove('active'));
+                childrenList.forEach(item => {
+                        const hrefList = [].map.call(item.querySelectorAll('a'), (it) => it.getAttribute('href'));
+                        const isActive = hrefList.some(item => item === location.pathname);
+                        if (isActive) {
+                                item.classList.add('active');
+                        }
+                });
+
+        }
+
+        addActive();
+</script>
