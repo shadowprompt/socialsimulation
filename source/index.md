@@ -10,7 +10,7 @@ layout: homepage
             <div class="swiper-slide">
                 <div class="inner">
                     <a href="/events/">
-                        <figure><img src="/img/swiper/2.jpg"></figure>
+                        <figure><img src="/img/css/summer_school_2024.png"></figure>
                     </a>
                 </div>
             </div>
