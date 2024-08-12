@@ -9,7 +9,7 @@ layout: homepage
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <div class="inner">
-                    <a href="/events/2024">
+                    <a href="/events/ISSS/ISSS2024/">
                         <figure><img src="/img/isss/isss_2024.png"></figure>
                     </a>
                 </div>
